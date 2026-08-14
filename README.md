@@ -54,6 +54,25 @@ spread over a nonsense price.
 | USD/JPY | 80 – 250 |
 | XAU/USD | 1000 – 10000 |
 
+## Display demotion (collection is unaffected)
+
+A series whose window median is **0.0** on an instrument where zero is not a plausible
+tradeable cost is **display-demoted**: it stops ticking on the site and renders as the
+broker's advertised row, flagged *"sampled feed under review"*.
+
+Collection does not change. It is still sampled, still committed here, still counted in
+the health table below — the record is honest and hiding it would be worse. The demotion
+is about presentation: animating a row that reads 0.00 throughout would present a number
+nobody could trade as though it were a live cost.
+
+The quality gates cannot catch this case. Such a window is internally consistent and
+passes both the band and the mid-price check; the problem is what the number *means*,
+not whether it parsed. The rule is general, not a per-broker exception — a series
+reinstates itself automatically once its medians become plausible, or when the broker
+documents the feed.
+
+Currently demoted: **pepperstone / EURUSD** (publishes bid == ask on most samples).
+
 ## Feed health
 
 Derived from the files in this repo, not hand-maintained. A feed below 70% window
