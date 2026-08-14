@@ -1,0 +1,70 @@
+{
+ "broker": "dukascopy",
+ "symbol": "NAS100",
+ "session": "shadow-day1",
+ "reason": "NAS: no mid-price range defined — cannot sanity-check magnitude, so not committed",
+ "midCheck": {
+  "ok": false,
+  "median": 30046.45075,
+  "reason": "NAS: no mid-price range defined — cannot sanity-check magnitude, so not committed"
+ },
+ "rows": [
+  {
+   "t": "2026-08-14T14:58:08.504Z",
+   "bid": 30048.189,
+   "ask": 30048.936,
+   "spread": 0.747,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:15.451Z",
+   "bid": 30046.62,
+   "ask": 30047.625,
+   "spread": 1.005,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:22.339Z",
+   "bid": 30045.464,
+   "ask": 30046.211,
+   "spread": 0.747,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:29.265Z",
+   "bid": 30046.089,
+   "ask": 30046.824,
+   "spread": 0.735,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:36.263Z",
+   "bid": 30044.621,
+   "ask": 30045.591,
+   "spread": 0.97,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:43.256Z",
+   "bid": 30046.099,
+   "ask": 30046.791,
+   "spread": 0.692,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:50.372Z",
+   "bid": 30046.31,
+   "ask": 30047.101,
+   "spread": 0.791,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:57.855Z",
+   "bid": 30041.486,
+   "ask": 30042.458,
+   "spread": 0.972,
+   "unit": "usd"
+  }
+ ],
+ "quarantinedAt": "2026-08-14T14:58:58.892Z"
+}

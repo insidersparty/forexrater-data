@@ -1,0 +1,70 @@
+{
+ "broker": "dukascopy",
+ "symbol": "US30",
+ "session": "shadow-day1",
+ "reason": "US: no mid-price range defined — cannot sanity-check magnitude, so not committed",
+ "midCheck": {
+  "ok": false,
+  "median": 53743.558999999994,
+  "reason": "US: no mid-price range defined — cannot sanity-check magnitude, so not committed"
+ },
+ "rows": [
+  {
+   "t": "2026-08-14T14:58:08.504Z",
+   "bid": 53743.515,
+   "ask": 53745.073,
+   "spread": 1.558,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:15.451Z",
+   "bid": 53742.575,
+   "ask": 53744.013,
+   "spread": 1.438,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:22.339Z",
+   "bid": 53745.003,
+   "ask": 53746.549,
+   "spread": 1.546,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:29.265Z",
+   "bid": 53741.599,
+   "ask": 53743.085,
+   "spread": 1.486,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:36.263Z",
+   "bid": 53743.099,
+   "ask": 53744.549,
+   "spread": 1.45,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:43.256Z",
+   "bid": 53740.503,
+   "ask": 53741.801,
+   "spread": 1.298,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:50.372Z",
+   "bid": 53739.527,
+   "ask": 53741.085,
+   "spread": 1.558,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-08-14T14:58:57.855Z",
+   "bid": 53746.099,
+   "ask": 53747.301,
+   "spread": 1.202,
+   "unit": "usd"
+  }
+ ],
+ "quarantinedAt": "2026-08-14T14:58:58.894Z"
+}

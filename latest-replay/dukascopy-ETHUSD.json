@@ -1,18 +1,18 @@
 {
  "broker": "dukascopy",
- "symbol": "GBPUSD",
+ "symbol": "ETHUSD",
  "session": "promote-check",
  "dateUtc": "2026-08-14",
- "unit": "pips",
+ "unit": "usd",
  "feedType": "unspecified",
  "accountType": "unspecified",
  "source": "broker-published",
  "advertisedBaseline": null,
  "gate": {
   "mode": "absolute",
-  "median": 0.7,
+  "median": 4,
   "ratio": null,
-  "midPrice": 1.35461
+  "midPrice": 1872.55
  },
  "sampledAt": "2026-08-14T15:27:43.464Z",
  "sampleCount": 6,
@@ -20,39 +20,39 @@
  "samples": [
   {
    "t": "2026-08-14T15:27:43.464Z",
-   "bid": 1.35447,
-   "ask": 1.35452,
-   "spread": 0.5
+   "bid": 1869.8,
+   "ask": 1876,
+   "spread": 6.2
   },
   {
    "t": "2026-08-14T15:27:50.400Z",
-   "bid": 1.35445,
-   "ask": 1.35453,
-   "spread": 0.8
+   "bid": 1869.9,
+   "ask": 1873.9,
+   "spread": 4
   },
   {
    "t": "2026-08-14T15:27:57.322Z",
-   "bid": 1.35456,
-   "ask": 1.35462,
-   "spread": 0.6
+   "bid": 1870.3,
+   "ask": 1874.3,
+   "spread": 4
   },
   {
    "t": "2026-08-14T15:28:04.259Z",
-   "bid": 1.3546,
-   "ask": 1.35466,
-   "spread": 0.6
+   "bid": 1870.3,
+   "ask": 1876.6,
+   "spread": 6.3
   },
   {
    "t": "2026-08-14T15:28:11.200Z",
-   "bid": 1.35468,
-   "ask": 1.35476,
-   "spread": 0.8
+   "bid": 1870,
+   "ask": 1874,
+   "spread": 4
   },
   {
    "t": "2026-08-14T15:28:18.089Z",
-   "bid": 1.35465,
-   "ask": 1.35473,
-   "spread": 0.8
+   "bid": 1870.8,
+   "ask": 1874.8,
+   "spread": 4
   }
  ]
 }
