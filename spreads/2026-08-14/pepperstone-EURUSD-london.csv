@@ -1,0 +1,11 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-08-14T11:44:18.007Z,pepperstone,EURUSD,1.15703,1.15703,0,pips,unspecified,broker-published
+2026-08-14T11:44:25.113Z,pepperstone,EURUSD,1.157,1.15701,0.1,pips,unspecified,broker-published
+2026-08-14T11:44:32.071Z,pepperstone,EURUSD,1.1569,1.1569,0,pips,unspecified,broker-published
+2026-08-14T11:44:39.051Z,pepperstone,EURUSD,1.15683,1.15683,0,pips,unspecified,broker-published
+2026-08-14T11:44:45.924Z,pepperstone,EURUSD,1.15682,1.15683,0.1,pips,unspecified,broker-published
+2026-08-14T11:44:52.860Z,pepperstone,EURUSD,1.15687,1.15687,0,pips,unspecified,broker-published
+2026-08-14T11:44:59.795Z,pepperstone,EURUSD,1.15691,1.15691,0,pips,unspecified,broker-published
+2026-08-14T11:45:06.714Z,pepperstone,EURUSD,1.15689,1.15689,0,pips,unspecified,broker-published
+2026-08-14T11:45:13.675Z,pepperstone,EURUSD,1.15686,1.15686,0,pips,unspecified,broker-published
+2026-08-14T11:45:21.191Z,pepperstone,EURUSD,1.15688,1.15688,0,pips,unspecified,broker-published

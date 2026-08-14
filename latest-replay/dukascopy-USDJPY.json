@@ -1,0 +1,82 @@
+{
+ "broker": "dukascopy",
+ "symbol": "USDJPY",
+ "session": "london",
+ "dateUtc": "2026-08-14",
+ "unit": "pips",
+ "feedType": "unspecified",
+ "accountType": "unspecified",
+ "source": "broker-published",
+ "advertisedBaseline": null,
+ "gate": {
+  "mode": "absolute",
+  "median": 0.4,
+  "ratio": null,
+  "midPrice": 159.0795
+ },
+ "sampledAt": "2026-08-14T11:44:17.341Z",
+ "sampleCount": 10,
+ "cadenceMs": 6000,
+ "samples": [
+  {
+   "t": "2026-08-14T11:44:17.341Z",
+   "bid": 159.069,
+   "ask": 159.074,
+   "spread": 0.5
+  },
+  {
+   "t": "2026-08-14T11:44:24.408Z",
+   "bid": 159.07,
+   "ask": 159.074,
+   "spread": 0.4
+  },
+  {
+   "t": "2026-08-14T11:44:31.386Z",
+   "bid": 159.07,
+   "ask": 159.074,
+   "spread": 0.4
+  },
+  {
+   "t": "2026-08-14T11:44:38.368Z",
+   "bid": 159.072,
+   "ask": 159.075,
+   "spread": 0.3
+  },
+  {
+   "t": "2026-08-14T11:44:45.306Z",
+   "bid": 159.082,
+   "ask": 159.086,
+   "spread": 0.4
+  },
+  {
+   "t": "2026-08-14T11:44:52.185Z",
+   "bid": 159.076,
+   "ask": 159.08,
+   "spread": 0.4
+  },
+  {
+   "t": "2026-08-14T11:44:59.108Z",
+   "bid": 159.078,
+   "ask": 159.084,
+   "spread": 0.6
+  },
+  {
+   "t": "2026-08-14T11:45:06.045Z",
+   "bid": 159.08,
+   "ask": 159.083,
+   "spread": 0.3
+  },
+  {
+   "t": "2026-08-14T11:45:12.980Z",
+   "bid": 159.08,
+   "ask": 159.083,
+   "spread": 0.3
+  },
+  {
+   "t": "2026-08-14T11:45:20.492Z",
+   "bid": 159.08,
+   "ask": 159.085,
+   "spread": 0.5
+  }
+ ]
+}

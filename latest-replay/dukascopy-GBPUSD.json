@@ -1,0 +1,82 @@
+{
+ "broker": "dukascopy",
+ "symbol": "GBPUSD",
+ "session": "london",
+ "dateUtc": "2026-08-14",
+ "unit": "pips",
+ "feedType": "unspecified",
+ "accountType": "unspecified",
+ "source": "broker-published",
+ "advertisedBaseline": null,
+ "gate": {
+  "mode": "absolute",
+  "median": 0.6,
+  "ratio": null,
+  "midPrice": 1.354025
+ },
+ "sampledAt": "2026-08-14T11:44:17.341Z",
+ "sampleCount": 10,
+ "cadenceMs": 6000,
+ "samples": [
+  {
+   "t": "2026-08-14T11:44:17.341Z",
+   "bid": 1.35408,
+   "ask": 1.35414,
+   "spread": 0.6
+  },
+  {
+   "t": "2026-08-14T11:44:24.408Z",
+   "bid": 1.35405,
+   "ask": 1.35412,
+   "spread": 0.7
+  },
+  {
+   "t": "2026-08-14T11:44:31.386Z",
+   "bid": 1.35405,
+   "ask": 1.35412,
+   "spread": 0.7
+  },
+  {
+   "t": "2026-08-14T11:44:38.368Z",
+   "bid": 1.35404,
+   "ask": 1.35409,
+   "spread": 0.5
+  },
+  {
+   "t": "2026-08-14T11:44:45.306Z",
+   "bid": 1.35394,
+   "ask": 1.35402,
+   "spread": 0.8
+  },
+  {
+   "t": "2026-08-14T11:44:52.185Z",
+   "bid": 1.35398,
+   "ask": 1.35404,
+   "spread": 0.6
+  },
+  {
+   "t": "2026-08-14T11:44:59.108Z",
+   "bid": 1.35397,
+   "ask": 1.35403,
+   "spread": 0.6
+  },
+  {
+   "t": "2026-08-14T11:45:06.045Z",
+   "bid": 1.354,
+   "ask": 1.35408,
+   "spread": 0.8
+  },
+  {
+   "t": "2026-08-14T11:45:12.980Z",
+   "bid": 1.35398,
+   "ask": 1.35404,
+   "spread": 0.6
+  },
+  {
+   "t": "2026-08-14T11:45:20.492Z",
+   "bid": 1.35395,
+   "ask": 1.35401,
+   "spread": 0.6
+  }
+ ]
+}

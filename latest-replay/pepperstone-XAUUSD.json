@@ -1,0 +1,82 @@
+{
+ "broker": "pepperstone",
+ "symbol": "XAUUSD",
+ "session": "london",
+ "dateUtc": "2026-08-14",
+ "unit": "usd",
+ "feedType": "unspecified",
+ "accountType": "unspecified",
+ "source": "broker-published",
+ "advertisedBaseline": null,
+ "gate": {
+  "mode": "absolute",
+  "median": 0.1,
+  "ratio": null,
+  "midPrice": 4362.5975
+ },
+ "sampledAt": "2026-08-14T11:44:18.007Z",
+ "sampleCount": 10,
+ "cadenceMs": 6000,
+ "samples": [
+  {
+   "t": "2026-08-14T11:44:18.007Z",
+   "bid": 4363.35,
+   "ask": 4363.47,
+   "spread": 0.12
+  },
+  {
+   "t": "2026-08-14T11:44:25.113Z",
+   "bid": 4363.04,
+   "ask": 4363.14,
+   "spread": 0.1
+  },
+  {
+   "t": "2026-08-14T11:44:32.071Z",
+   "bid": 4362.69,
+   "ask": 4362.78,
+   "spread": 0.09
+  },
+  {
+   "t": "2026-08-14T11:44:39.051Z",
+   "bid": 4362.42,
+   "ask": 4362.54,
+   "spread": 0.12
+  },
+  {
+   "t": "2026-08-14T11:44:45.924Z",
+   "bid": 4362.44,
+   "ask": 4362.54,
+   "spread": 0.1
+  },
+  {
+   "t": "2026-08-14T11:44:52.860Z",
+   "bid": 4362.53,
+   "ask": 4362.63,
+   "spread": 0.1
+  },
+  {
+   "t": "2026-08-14T11:44:59.795Z",
+   "bid": 4362.55,
+   "ask": 4362.65,
+   "spread": 0.1
+  },
+  {
+   "t": "2026-08-14T11:45:06.714Z",
+   "bid": 4362.55,
+   "ask": 4362.64,
+   "spread": 0.09
+  },
+  {
+   "t": "2026-08-14T11:45:13.675Z",
+   "bid": 4362.57,
+   "ask": 4362.66,
+   "spread": 0.09
+  },
+  {
+   "t": "2026-08-14T11:45:21.191Z",
+   "bid": 4362.36,
+   "ask": 4362.45,
+   "spread": 0.09
+  }
+ ]
+}
