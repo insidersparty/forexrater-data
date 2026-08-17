@@ -1,0 +1,100 @@
+{
+ "broker": "pepperstone",
+ "symbol": "EURUSD",
+ "session": "newyork",
+ "reason": "pepperstone/EURUSD (newyork): every sample identical and zero — indistinguishable from a parse that produced 0. QUARANTINED.",
+ "gate": {
+  "ok": false,
+  "mode": "degenerate",
+  "median": 0,
+  "ratio": null,
+  "reason": "pepperstone/EURUSD (newyork): every sample identical and zero — indistinguishable from a parse that produced 0. QUARANTINED."
+ },
+ "rows": [
+  {
+   "t": "2026-08-17T14:37:25.522Z",
+   "bid": 1.15896,
+   "ask": 1.15896,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-17T14:37:33.472Z",
+   "bid": 1.1589,
+   "ask": 1.1589,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-17T14:37:40.784Z",
+   "bid": 1.15886,
+   "ask": 1.15886,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-17T14:37:48.463Z",
+   "bid": 1.15887,
+   "ask": 1.15887,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-17T14:37:55.677Z",
+   "bid": 1.15894,
+   "ask": 1.15894,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-17T14:38:03.038Z",
+   "bid": 1.15893,
+   "ask": 1.15893,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-17T14:38:10.371Z",
+   "bid": 1.15884,
+   "ask": 1.15884,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-17T14:38:17.729Z",
+   "bid": 1.15882,
+   "ask": 1.15882,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-17T14:38:25.464Z",
+   "bid": 1.15883,
+   "ask": 1.15883,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-17T14:38:32.929Z",
+   "bid": 1.15882,
+   "ask": 1.15882,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-17T14:38:40.268Z",
+   "bid": 1.15882,
+   "ask": 1.15882,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-17T14:38:47.608Z",
+   "bid": 1.15883,
+   "ask": 1.15883,
+   "spread": 0,
+   "unit": "pips"
+  }
+ ],
+ "quarantinedAt": "2026-08-17T14:38:47.615Z"
+}
