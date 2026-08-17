@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-08-17T02:21:04.508Z,dukascopy,SPX500,7786.906,7787.428,0.522,usd,unspecified,broker-published
+2026-08-17T02:21:11.818Z,dukascopy,SPX500,7787.153,7787.681,0.528,usd,unspecified,broker-published
+2026-08-17T02:21:19.217Z,dukascopy,SPX500,7787.153,7787.681,0.528,usd,unspecified,broker-published
+2026-08-17T02:21:26.548Z,dukascopy,SPX500,7787.403,7787.934,0.531,usd,unspecified,broker-published
+2026-08-17T02:21:33.974Z,dukascopy,SPX500,7787.409,7787.934,0.525,usd,unspecified,broker-published
+2026-08-17T02:21:41.297Z,dukascopy,SPX500,7787.903,7788.437,0.534,usd,unspecified,broker-published
+2026-08-17T02:21:48.665Z,dukascopy,SPX500,7787.903,7788.437,0.534,usd,unspecified,broker-published
+2026-08-17T02:21:55.963Z,dukascopy,SPX500,7788.165,7788.678,0.513,usd,unspecified,broker-published
+2026-08-17T02:22:03.306Z,dukascopy,SPX500,7787.969,7788.428,0.459,usd,unspecified,broker-published
+2026-08-17T02:22:10.812Z,dukascopy,SPX500,7787.969,7788.428,0.459,usd,unspecified,broker-published
+2026-08-17T02:22:18.279Z,dukascopy,SPX500,7787.969,7788.428,0.459,usd,unspecified,broker-published
+2026-08-17T02:22:25.601Z,dukascopy,SPX500,7787.915,7788.419,0.504,usd,unspecified,broker-published
