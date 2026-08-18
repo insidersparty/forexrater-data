@@ -17,6 +17,20 @@ site displays — not a guess.
 contain that symbol. Nothing is interpolated, carried forward, or synthesised. A
 window that fails a quality gate is written to `quarantine/` and never served.
 
+**A held window keeps its own date.** `latest-replay/` is republished per window, and
+only when the QUOTE CONTENT changed. A window whose bid/ask/spread sequence is identical
+to the one already published is left untouched, so it continues to show the date it was
+actually recorded rather than being relabelled with today's. This means different symbols
+can legitimately carry different dates — that is the honest state, not a synchronisation
+bug. Rewriting an unchanged window under a fresh timestamp would present a frozen feed as
+new evidence, which is the one thing this repo exists to avoid.
+
+## Repository notes
+
+Authorship metadata corrected 2026-08-18, prior to public launch; commit contents
+unchanged. The rewrite touched author and committer fields only — every tree, blob,
+message and timestamp in this repository is byte-identical to what it was before.
+
 ## Layout
 
     spreads/{date}/{broker}-{symbol}-{session}.csv   one row per sample
@@ -80,16 +94,16 @@ success is flagged for review and demotion to advertised-only display.
 
 | Broker | Symbol | Committed | Quarantined | Success | Last good | Status |
 |---|---|---|---|---|---|---|
-| dukascopy | ETHUSD | 6 | 0 | 100% | 2026-08-18 | ok |
-| dukascopy | EURUSD | 10 | 0 | 100% | 2026-08-18 | ok |
-| dukascopy | GBPUSD | 10 | 0 | 100% | 2026-08-18 | ok |
-| dukascopy | USDJPY | 10 | 0 | 100% | 2026-08-18 | ok |
-| dukascopy | XAGUSD | 6 | 0 | 100% | 2026-08-18 | ok |
-| dukascopy | XAUUSD | 10 | 0 | 100% | 2026-08-18 | ok |
-| pepperstone | EURUSD | 5 | 5 | 50% | 2026-08-18 | ⚠ REVIEW |
-| pepperstone | GBPUSD | 10 | 0 | 100% | 2026-08-18 | ok |
-| pepperstone | USDJPY | 10 | 0 | 100% | 2026-08-18 | ok |
-| pepperstone | XAUUSD | 10 | 0 | 100% | 2026-08-18 | ok |
+| dukascopy | ETHUSD | 7 | 0 | 100% | 2026-08-18 | ok |
+| dukascopy | EURUSD | 11 | 0 | 100% | 2026-08-18 | ok |
+| dukascopy | GBPUSD | 11 | 0 | 100% | 2026-08-18 | ok |
+| dukascopy | USDJPY | 11 | 0 | 100% | 2026-08-18 | ok |
+| dukascopy | XAGUSD | 7 | 0 | 100% | 2026-08-18 | ok |
+| dukascopy | XAUUSD | 11 | 0 | 100% | 2026-08-18 | ok |
+| pepperstone | EURUSD | 5 | 6 | 45% | 2026-08-18 | ⚠ REVIEW |
+| pepperstone | GBPUSD | 11 | 0 | 100% | 2026-08-18 | ok |
+| pepperstone | USDJPY | 11 | 0 | 100% | 2026-08-18 | ok |
+| pepperstone | XAUUSD | 11 | 0 | 100% | 2026-08-18 | ok |
 
 - **pepperstone/EURUSD** — pepperstone/EURUSD (promote-check): every sample identical and zero — indistinguishable from a parse that produced 0. QUARANTINED.
 
