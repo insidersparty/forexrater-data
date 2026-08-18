@@ -100,7 +100,7 @@ success is flagged for review and demotion to advertised-only display.
 | dukascopy | USDJPY | 11 | 0 | 100% | 2026-08-18 | ok |
 | dukascopy | XAGUSD | 7 | 0 | 100% | 2026-08-18 | ok |
 | dukascopy | XAUUSD | 11 | 0 | 100% | 2026-08-18 | ok |
-| pepperstone | EURUSD | 5 | 6 | 45% | 2026-08-18 | ⚠ REVIEW |
+| pepperstone | EURUSD | 6 | 5 | 55% | 2026-08-18 | ⚠ REVIEW |
 | pepperstone | GBPUSD | 11 | 0 | 100% | 2026-08-18 | ok |
 | pepperstone | USDJPY | 11 | 0 | 100% | 2026-08-18 | ok |
 | pepperstone | XAUUSD | 11 | 0 | 100% | 2026-08-18 | ok |
