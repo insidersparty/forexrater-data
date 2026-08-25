@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-08-25T14:58:54.408Z,pepperstone,GBPUSD,1.36339,1.3634,0.1,pips,unspecified,broker-published
+2026-08-25T14:59:02.130Z,pepperstone,GBPUSD,1.3634,1.36341,0.1,pips,unspecified,broker-published
+2026-08-25T14:59:09.856Z,pepperstone,GBPUSD,1.36341,1.36342,0.1,pips,unspecified,broker-published
+2026-08-25T14:59:17.547Z,pepperstone,GBPUSD,1.36338,1.36338,0,pips,unspecified,broker-published
+2026-08-25T14:59:25.169Z,pepperstone,GBPUSD,1.36335,1.36336,0.1,pips,unspecified,broker-published
+2026-08-25T14:59:33.131Z,pepperstone,GBPUSD,1.36341,1.36342,0.1,pips,unspecified,broker-published
+2026-08-25T14:59:40.714Z,pepperstone,GBPUSD,1.36341,1.36342,0.1,pips,unspecified,broker-published
+2026-08-25T14:59:48.418Z,pepperstone,GBPUSD,1.36337,1.36338,0.1,pips,unspecified,broker-published
+2026-08-25T14:59:56.106Z,pepperstone,GBPUSD,1.36336,1.36337,0.1,pips,unspecified,broker-published
+2026-08-25T15:00:03.731Z,pepperstone,GBPUSD,1.36328,1.36329,0.1,pips,unspecified,broker-published
+2026-08-25T15:00:11.378Z,pepperstone,GBPUSD,1.36326,1.36327,0.1,pips,unspecified,broker-published
+2026-08-25T15:00:19.020Z,pepperstone,GBPUSD,1.36327,1.36328,0.1,pips,unspecified,broker-published

@@ -94,16 +94,16 @@ success is flagged for review and demotion to advertised-only display.
 
 | Broker | Symbol | Committed | Quarantined | Success | Last good | Status |
 |---|---|---|---|---|---|---|
-| dukascopy | ETHUSD | 20 | 0 | 100% | 2026-08-25 | ok |
-| dukascopy | EURUSD | 24 | 0 | 100% | 2026-08-25 | ok |
-| dukascopy | GBPUSD | 24 | 0 | 100% | 2026-08-25 | ok |
-| dukascopy | USDJPY | 24 | 0 | 100% | 2026-08-25 | ok |
-| dukascopy | XAGUSD | 20 | 0 | 100% | 2026-08-25 | ok |
-| dukascopy | XAUUSD | 24 | 0 | 100% | 2026-08-25 | ok |
-| pepperstone | EURUSD | 14 | 10 | 58% | 2026-08-25 | ⚠ REVIEW |
-| pepperstone | GBPUSD | 24 | 0 | 100% | 2026-08-25 | ok |
-| pepperstone | USDJPY | 24 | 0 | 100% | 2026-08-25 | ok |
-| pepperstone | XAUUSD | 24 | 0 | 100% | 2026-08-25 | ok |
+| dukascopy | ETHUSD | 21 | 0 | 100% | 2026-08-25 | ok |
+| dukascopy | EURUSD | 25 | 0 | 100% | 2026-08-25 | ok |
+| dukascopy | GBPUSD | 25 | 0 | 100% | 2026-08-25 | ok |
+| dukascopy | USDJPY | 25 | 0 | 100% | 2026-08-25 | ok |
+| dukascopy | XAGUSD | 21 | 0 | 100% | 2026-08-25 | ok |
+| dukascopy | XAUUSD | 25 | 0 | 100% | 2026-08-25 | ok |
+| pepperstone | EURUSD | 14 | 11 | 56% | 2026-08-25 | ⚠ REVIEW |
+| pepperstone | GBPUSD | 25 | 0 | 100% | 2026-08-25 | ok |
+| pepperstone | USDJPY | 25 | 0 | 100% | 2026-08-25 | ok |
+| pepperstone | XAUUSD | 25 | 0 | 100% | 2026-08-25 | ok |
 
 - **pepperstone/EURUSD** — pepperstone/EURUSD (promote-check): every sample identical and zero — indistinguishable from a parse that produced 0. QUARANTINED.
 
