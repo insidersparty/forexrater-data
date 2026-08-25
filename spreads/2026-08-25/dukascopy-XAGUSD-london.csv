@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-08-25T09:47:50.773Z,dukascopy,XAGUSD,68.027,68.059,0.032,usd,unspecified,broker-published
+2026-08-25T09:47:58.135Z,dukascopy,XAGUSD,68.005,68.038,0.033,usd,unspecified,broker-published
+2026-08-25T09:48:05.535Z,dukascopy,XAGUSD,68.02,68.053,0.033,usd,unspecified,broker-published
+2026-08-25T09:48:12.869Z,dukascopy,XAGUSD,68.033,68.066,0.033,usd,unspecified,broker-published
+2026-08-25T09:48:20.236Z,dukascopy,XAGUSD,68.021,68.054,0.033,usd,unspecified,broker-published
+2026-08-25T09:48:27.570Z,dukascopy,XAGUSD,68.029,68.062,0.033,usd,unspecified,broker-published
+2026-08-25T09:48:34.782Z,dukascopy,XAGUSD,68.021,68.051,0.03,usd,unspecified,broker-published
+2026-08-25T09:48:42.340Z,dukascopy,XAGUSD,68.023,68.056,0.033,usd,unspecified,broker-published
+2026-08-25T09:48:49.585Z,dukascopy,XAGUSD,68.028,68.061,0.033,usd,unspecified,broker-published
+2026-08-25T09:48:57.056Z,dukascopy,XAGUSD,68.03,68.063,0.033,usd,unspecified,broker-published
+2026-08-25T09:49:04.239Z,dukascopy,XAGUSD,68.03,68.063,0.033,usd,unspecified,broker-published
+2026-08-25T09:49:11.549Z,dukascopy,XAGUSD,68.043,68.073,0.03,usd,unspecified,broker-published
