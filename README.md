@@ -158,7 +158,7 @@ frozen, and it is not flagged for a review that has already been held.
 | dukascopy | USDJPY | 27 | 0 | 100% | 2026-08-26 | ok |
 | dukascopy | XAGUSD | 23 | 0 | 100% | 2026-08-26 | ok |
 | dukascopy | XAUUSD | 27 | 0 | 100% | 2026-08-26 | ok |
-| pepperstone | EURUSD | 15 | 12 | 56% | 2026-08-26 | ⏸ parked |
+| pepperstone | EURUSD | 15 | 11 | 58% | 2026-08-26 | ⏸ parked |
 | pepperstone | GBPUSD | 27 | 0 | 100% | 2026-08-26 | ok |
 | pepperstone | USDJPY | 27 | 0 | 100% | 2026-08-26 | ok |
 | pepperstone | XAUUSD | 27 | 0 | 100% | 2026-08-26 | ok |
