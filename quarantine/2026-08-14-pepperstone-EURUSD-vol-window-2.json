@@ -1,0 +1,114 @@
+{
+ "broker": "pepperstone",
+ "symbol": "EURUSD",
+ "session": "vol-window-2",
+ "reason": "pepperstone/EURUSD (vol-window-2): every sample identical and zero — indistinguishable from a parse that produced 0. QUARANTINED.",
+ "gate": {
+  "ok": false,
+  "mode": "degenerate",
+  "median": 0,
+  "ratio": null,
+  "reason": "pepperstone/EURUSD (vol-window-2): every sample identical and zero — indistinguishable from a parse that produced 0. QUARANTINED."
+ },
+ "rows": [
+  {
+   "t": "2026-08-14T15:38:59.335Z",
+   "bid": 1.15823,
+   "ask": 1.15823,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-14T15:39:07.427Z",
+   "bid": 1.15827,
+   "ask": 1.15827,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-14T15:39:15.417Z",
+   "bid": 1.15826,
+   "ask": 1.15826,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-14T15:39:23.529Z",
+   "bid": 1.15833,
+   "ask": 1.15833,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-14T15:39:31.732Z",
+   "bid": 1.15827,
+   "ask": 1.15827,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-14T15:39:39.606Z",
+   "bid": 1.15827,
+   "ask": 1.15827,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-14T15:39:47.719Z",
+   "bid": 1.15827,
+   "ask": 1.15827,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-14T15:39:55.469Z",
+   "bid": 1.15827,
+   "ask": 1.15827,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-14T15:40:03.366Z",
+   "bid": 1.15821,
+   "ask": 1.15821,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-14T15:40:11.317Z",
+   "bid": 1.15818,
+   "ask": 1.15818,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-14T15:40:19.284Z",
+   "bid": 1.15815,
+   "ask": 1.15815,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-14T15:40:27.217Z",
+   "bid": 1.15813,
+   "ask": 1.15813,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-14T15:40:35.167Z",
+   "bid": 1.15813,
+   "ask": 1.15813,
+   "spread": 0,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-08-14T15:40:43.003Z",
+   "bid": 1.15813,
+   "ask": 1.15813,
+   "spread": 0,
+   "unit": "pips"
+  }
+ ],
+ "quarantinedAt": "2026-08-14T15:40:43.540Z"
+}
