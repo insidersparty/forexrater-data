@@ -88,6 +88,24 @@ not whether it parsed. The rule is general, not a per-broker exception — a ser
 reinstates itself automatically once its medians become plausible, or when the broker
 documents the feed.
 
+## Promotions and holds (rulings 2026-09-09)
+
+**BRENT/USD — PROMOTED out of shadow.** It was held on 2026-08-27 for printing a constant
+0.05, then appeared to step on 08-27/28 — but those were exactly the days the scheduler was
+delivering runs hours late and sampling at odd hours, so the promotion question was refused
+as contaminated rather than answered. With sampling restored to proper session windows the
+variance PERSISTED: 18 off-modal samples across 5 of 7 clean days, at 0.052 and 0.057 against
+a modal 0.05. Its plausibility bands and mid-price range were already enforcing from the
+shadow period, so nothing there changed. It is not displayed — the widget keeps its six tabs
+and Brent has none — and accumulates public history for a future surface.
+
+**WTI/USD — HELD, and the question is closed.** Tested the same way over the same period, its
+pre-fix variance collapsed to 3 off-modal samples on a single day out of seven. That is what a
+sampling artifact looks like once the sampling is fixed. It stays on the weekly heartbeat and
+reopens only on genuine sustained variance.
+
+**BTC/USD — HELD, unchanged.** One off-modal sample in the entire record, none since the fix.
+
 ## Parked series (ruling 2026-08-26)
 
 A **parked** series is one that has stopped being worth gating. It leaves the active
@@ -112,6 +130,11 @@ parse failures and zero auth failures — the endpoint answers, correctly, with 
 that is not a tradeable cost. There is no fault on our side to fix and no reason to
 expect the next window to differ, so a gate that fires on every single run has stopped
 carrying information; it only trains the reader to ignore a red run.
+
+Re-assessed 2026-09-09 and KEPT PARKED. Its first two heartbeats produced 7 samples at 0.1
+pips against a modal 0, the first non-zero readings the feed has ever given. Those are signs
+of life, not a reversal: two heartbeats of barely-off-zero does not undo a parking for chronic
+degeneracy. Unparking waits on several more heartbeats of genuine two-sided quotes.
 
 Unparking is a human ruling, never automatic. The weekly heartbeat reports the series'
 median and its distinct-value count; a person decides whether a change is real.
@@ -149,19 +172,19 @@ frozen, and it is not flagged for a review that has already been held.
 
 | Broker | Symbol | Committed | Quarantined | Success | Last good | Status |
 |---|---|---|---|---|---|---|
-| dukascopy | ETHUSD | 47 | 0 | 100% | 2026-09-09 | ok |
-| dukascopy | EURUSD | 50 | 0 | 100% | 2026-09-09 | ok |
-| dukascopy | GBPUSD | 50 | 0 | 100% | 2026-09-09 | ok |
-| dukascopy | NAS100 | 47 | 1 | 98% | 2026-09-09 | ok |
-| dukascopy | SPX500 | 47 | 1 | 98% | 2026-09-09 | ok |
-| dukascopy | US30 | 47 | 1 | 98% | 2026-09-09 | ok |
-| dukascopy | USDJPY | 50 | 0 | 100% | 2026-09-09 | ok |
-| dukascopy | XAGUSD | 47 | 0 | 100% | 2026-09-09 | ok |
-| dukascopy | XAUUSD | 50 | 0 | 100% | 2026-09-09 | ok |
-| pepperstone | EURUSD | 14 | 11 | 56% | 2026-08-26 | ⏸ parked |
-| pepperstone | GBPUSD | 50 | 0 | 100% | 2026-09-09 | ok |
-| pepperstone | USDJPY | 50 | 0 | 100% | 2026-09-09 | ok |
-| pepperstone | XAUUSD | 50 | 0 | 100% | 2026-09-09 | ok |
+| dukascopy | ETHUSD | 48 | 0 | 100% | 2026-09-09 | ok |
+| dukascopy | EURUSD | 51 | 0 | 100% | 2026-09-09 | ok |
+| dukascopy | GBPUSD | 51 | 0 | 100% | 2026-09-09 | ok |
+| dukascopy | NAS100 | 48 | 1 | 98% | 2026-09-09 | ok |
+| dukascopy | SPX500 | 48 | 1 | 98% | 2026-09-09 | ok |
+| dukascopy | US30 | 48 | 1 | 98% | 2026-09-09 | ok |
+| dukascopy | USDJPY | 51 | 0 | 100% | 2026-09-09 | ok |
+| dukascopy | XAGUSD | 48 | 0 | 100% | 2026-09-09 | ok |
+| dukascopy | XAUUSD | 51 | 0 | 100% | 2026-09-09 | ok |
+| pepperstone | EURUSD | 14 | 12 | 54% | 2026-08-26 | ⏸ parked |
+| pepperstone | GBPUSD | 51 | 0 | 100% | 2026-09-09 | ok |
+| pepperstone | USDJPY | 51 | 0 | 100% | 2026-09-09 | ok |
+| pepperstone | XAUUSD | 51 | 0 | 100% | 2026-09-09 | ok |
 
 - **dukascopy/NAS100** — NAS: no mid-price range defined — cannot sanity-check magnitude, so not committed
 - **dukascopy/SPX500** — SPX: no mid-price range defined — cannot sanity-check magnitude, so not committed
