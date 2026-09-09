@@ -104,6 +104,20 @@ header tricks, no slower-crawl workaround. The route to these figures is asking 
 publisher or the account-based wave, not a harder crawl. GBP/USD, USD/JPY and XAU/USD stay
 dark on that basis.
 
+**Dukascopy — the page we found answers a different question.** Its marketwatch page does
+publish a spread table, inside a freeserv.dukascopy.com iframe whose columns are named after
+sessions rather than carrying the word "spread", which is why an earlier scan reported the
+page empty. What it publishes is the AVERAGE OBSERVED difference between its own bid and ask
+— the broker sampling itself, for one named day, with commission excluded. That is not an
+advertised figure and it is not treated as one: putting it in the advertised column would
+have made eight instruments mean "their sampling against our sampling" while EUR/USD went on
+meaning advertised-against-sampled — one module making two different claims with nothing on
+screen to separate them. Ruling of 2026-09-09: the table is published on its own terms, as a
+clearly-labelled reference on the review page, with the unit left unspecified because the
+page states none and we convert nothing. It lights up no verdict module. Those series stay
+dark, and a real advertised figure for them still needs the account-based wave or the
+broker's own rate cards.
+
 ## Promotions and holds (rulings 2026-09-09)
 
 **BRENT/USD — PROMOTED out of shadow.** It was held on 2026-08-27 for printing a constant
