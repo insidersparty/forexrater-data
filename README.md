@@ -202,6 +202,7 @@ frozen, and it is not flagged for a review that has already been held.
 
 | Broker | Symbol | Committed | Quarantined | Success | Last good | Status |
 |---|---|---|---|---|---|---|
+| dukascopy | BRENTUSD | 1 | 0 | 100% | 2026-09-09 | ok |
 | dukascopy | ETHUSD | 48 | 0 | 100% | 2026-09-09 | ok |
 | dukascopy | EURUSD | 51 | 0 | 100% | 2026-09-09 | ok |
 | dukascopy | GBPUSD | 51 | 0 | 100% | 2026-09-09 | ok |
@@ -211,7 +212,7 @@ frozen, and it is not flagged for a review that has already been held.
 | dukascopy | USDJPY | 51 | 0 | 100% | 2026-09-09 | ok |
 | dukascopy | XAGUSD | 48 | 0 | 100% | 2026-09-09 | ok |
 | dukascopy | XAUUSD | 51 | 0 | 100% | 2026-09-09 | ok |
-| pepperstone | EURUSD | 14 | 12 | 54% | 2026-08-26 | ⏸ parked |
+| pepperstone | EURUSD | 14 | 11 | 56% | 2026-08-26 | ⏸ parked |
 | pepperstone | GBPUSD | 51 | 0 | 100% | 2026-09-09 | ok |
 | pepperstone | USDJPY | 51 | 0 | 100% | 2026-09-09 | ok |
 | pepperstone | XAUUSD | 51 | 0 | 100% | 2026-09-09 | ok |
