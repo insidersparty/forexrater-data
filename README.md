@@ -88,6 +88,22 @@ not whether it parsed. The rule is general, not a per-broker exception — a ser
 reinstates itself automatically once its medians become plausible, or when the broker
 documents the feed.
 
+## Advertised figures we cannot reach
+
+The Advertised-vs-Sampled module needs BOTH halves: a sampled median and an advertised
+figure from the broker. Twelve series passed their 21-day gate on 2026-09-04 and exactly
+one displays, because only one has both. What blocks the rest is recorded here rather than
+left as an unexplained gap.
+
+**Pepperstone — crawler-blocked, not published-absent.** Its advertised per-instrument
+spreads are unreachable: the homepage answers 200 and every subsequent page returns HTTP
+405, including the pages its own navigation exposes (markets/forex, markets/commodities,
+markets/indices, trading/costs-and-fees). Nine seconds between requests did not clear it.
+This is a refusal by the server, and it is filed rather than defeated — no evasion, no
+header tricks, no slower-crawl workaround. The route to these figures is asking the
+publisher or the account-based wave, not a harder crawl. GBP/USD, USD/JPY and XAU/USD stay
+dark on that basis.
+
 ## Promotions and holds (rulings 2026-09-09)
 
 **BRENT/USD — PROMOTED out of shadow.** It was held on 2026-08-27 for printing a constant
