@@ -202,20 +202,20 @@ frozen, and it is not flagged for a review that has already been held.
 
 | Broker | Symbol | Committed | Quarantined | Success | Last good | Status |
 |---|---|---|---|---|---|---|
-| dukascopy | BRENTUSD | 3 | 0 | 100% | 2026-09-10 | ok |
-| dukascopy | ETHUSD | 50 | 0 | 100% | 2026-09-10 | ok |
-| dukascopy | EURUSD | 53 | 0 | 100% | 2026-09-10 | ok |
-| dukascopy | GBPUSD | 53 | 0 | 100% | 2026-09-10 | ok |
-| dukascopy | NAS100 | 50 | 1 | 98% | 2026-09-10 | ok |
-| dukascopy | SPX500 | 50 | 1 | 98% | 2026-09-10 | ok |
-| dukascopy | US30 | 50 | 1 | 98% | 2026-09-10 | ok |
-| dukascopy | USDJPY | 53 | 0 | 100% | 2026-09-10 | ok |
-| dukascopy | XAGUSD | 50 | 0 | 100% | 2026-09-10 | ok |
-| dukascopy | XAUUSD | 53 | 0 | 100% | 2026-09-10 | ok |
+| dukascopy | BRENTUSD | 4 | 0 | 100% | 2026-09-10 | ok |
+| dukascopy | ETHUSD | 51 | 0 | 100% | 2026-09-10 | ok |
+| dukascopy | EURUSD | 54 | 0 | 100% | 2026-09-10 | ok |
+| dukascopy | GBPUSD | 54 | 0 | 100% | 2026-09-10 | ok |
+| dukascopy | NAS100 | 51 | 1 | 98% | 2026-09-10 | ok |
+| dukascopy | SPX500 | 51 | 1 | 98% | 2026-09-10 | ok |
+| dukascopy | US30 | 51 | 1 | 98% | 2026-09-10 | ok |
+| dukascopy | USDJPY | 54 | 0 | 100% | 2026-09-10 | ok |
+| dukascopy | XAGUSD | 51 | 0 | 100% | 2026-09-10 | ok |
+| dukascopy | XAUUSD | 54 | 0 | 100% | 2026-09-10 | ok |
 | pepperstone | EURUSD | 14 | 11 | 56% | 2026-08-26 | ⏸ parked |
-| pepperstone | GBPUSD | 53 | 0 | 100% | 2026-09-10 | ok |
-| pepperstone | USDJPY | 53 | 0 | 100% | 2026-09-10 | ok |
-| pepperstone | XAUUSD | 53 | 0 | 100% | 2026-09-10 | ok |
+| pepperstone | GBPUSD | 54 | 0 | 100% | 2026-09-10 | ok |
+| pepperstone | USDJPY | 54 | 0 | 100% | 2026-09-10 | ok |
+| pepperstone | XAUUSD | 54 | 0 | 100% | 2026-09-10 | ok |
 
 - **dukascopy/NAS100** — NAS: no mid-price range defined — cannot sanity-check magnitude, so not committed
 - **dukascopy/SPX500** — SPX: no mid-price range defined — cannot sanity-check magnitude, so not committed
