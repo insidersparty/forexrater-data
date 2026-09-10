@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-09-10T13:31:49.100Z,dukascopy,BTCUSD,76763.2,76813.2,50,usd,unspecified,broker-published
+2026-09-10T13:31:56.562Z,dukascopy,BTCUSD,76779.2,76829.2,50,usd,unspecified,broker-published
+2026-09-10T13:32:03.863Z,dukascopy,BTCUSD,76740.8,76790.8,50,usd,unspecified,broker-published
+2026-09-10T13:32:11.214Z,dukascopy,BTCUSD,76755.8,76805.8,50,usd,unspecified,broker-published
+2026-09-10T13:32:18.767Z,dukascopy,BTCUSD,76758.9,76808.9,50,usd,unspecified,broker-published
+2026-09-10T13:32:26.268Z,dukascopy,BTCUSD,76749.9,76799.9,50,usd,unspecified,broker-published
+2026-09-10T13:32:33.650Z,dukascopy,BTCUSD,76815.7,76865.7,50,usd,unspecified,broker-published
+2026-09-10T13:32:41.179Z,dukascopy,BTCUSD,76798.3,76848.3,50,usd,unspecified,broker-published
+2026-09-10T13:32:48.490Z,dukascopy,BTCUSD,76833.8,76883.8,50,usd,unspecified,broker-published
+2026-09-10T13:32:55.963Z,dukascopy,BTCUSD,76818,76868,50,usd,unspecified,broker-published
+2026-09-10T13:33:03.249Z,dukascopy,BTCUSD,76845,76895,50,usd,unspecified,broker-published
+2026-09-10T13:33:10.574Z,dukascopy,BTCUSD,76828.3,76878.3,50,usd,unspecified,broker-published
