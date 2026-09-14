@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-09-14T06:03:49.020Z,dukascopy,BRENTUSD,107.044,107.094,0.05,usd,unspecified,broker-published
+2026-09-14T06:03:56.705Z,dukascopy,BRENTUSD,107.044,107.094,0.05,usd,unspecified,broker-published
+2026-09-14T06:04:04.331Z,dukascopy,BRENTUSD,107.044,107.094,0.05,usd,unspecified,broker-published
+2026-09-14T06:04:11.962Z,dukascopy,BRENTUSD,107.014,107.071,0.057,usd,unspecified,broker-published
+2026-09-14T06:04:19.702Z,dukascopy,BRENTUSD,106.994,107.044,0.05,usd,unspecified,broker-published
+2026-09-14T06:04:27.311Z,dukascopy,BRENTUSD,106.984,107.034,0.05,usd,unspecified,broker-published
+2026-09-14T06:04:35.302Z,dukascopy,BRENTUSD,106.974,107.026,0.052,usd,unspecified,broker-published
+2026-09-14T06:04:43.022Z,dukascopy,BRENTUSD,106.984,107.041,0.057,usd,unspecified,broker-published
+2026-09-14T06:04:50.750Z,dukascopy,BRENTUSD,106.984,107.036,0.052,usd,unspecified,broker-published
+2026-09-14T06:04:58.261Z,dukascopy,BRENTUSD,106.991,107.041,0.05,usd,unspecified,broker-published
+2026-09-14T06:05:05.888Z,dukascopy,BRENTUSD,106.976,107.026,0.05,usd,unspecified,broker-published
+2026-09-14T06:05:13.496Z,dukascopy,BRENTUSD,106.944,107.001,0.057,usd,unspecified,broker-published
