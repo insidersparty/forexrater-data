@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-09-18T17:39:05.417Z,dukascopy,NAS100,29463.799,29464.536,0.737,usd,unspecified,broker-published
+2026-09-18T17:39:12.926Z,dukascopy,NAS100,29463.41,29464.468,1.058,usd,unspecified,broker-published
+2026-09-18T17:39:20.456Z,dukascopy,NAS100,29464.042,29465.046,1.004,usd,unspecified,broker-published
+2026-09-18T17:39:27.956Z,dukascopy,NAS100,29465.087,29465.992,0.905,usd,unspecified,broker-published
+2026-09-18T17:39:35.466Z,dukascopy,NAS100,29466.32,29467.39,1.07,usd,unspecified,broker-published
+2026-09-18T17:39:42.912Z,dukascopy,NAS100,29465.575,29466.502,0.927,usd,unspecified,broker-published
+2026-09-18T17:39:50.385Z,dukascopy,NAS100,29466.097,29466.992,0.895,usd,unspecified,broker-published
+2026-09-18T17:39:57.848Z,dukascopy,NAS100,29465.619,29466.535,0.916,usd,unspecified,broker-published
+2026-09-18T17:40:05.545Z,dukascopy,NAS100,29466.353,29467.336,0.983,usd,unspecified,broker-published
+2026-09-18T17:40:13.015Z,dukascopy,NAS100,29464.954,29465.946,0.992,usd,unspecified,broker-published
+2026-09-18T17:40:20.494Z,dukascopy,NAS100,29464.664,29465.613,0.949,usd,unspecified,broker-published
+2026-09-18T17:40:28.371Z,dukascopy,NAS100,29464.409,29465.111,0.702,usd,unspecified,broker-published
