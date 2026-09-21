@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-09-21T06:08:06.770Z,dukascopy,WTIUSD,94.495,94.546,0.051,usd,unspecified,broker-published
+2026-09-21T06:08:14.138Z,dukascopy,WTIUSD,94.515,94.566,0.051,usd,unspecified,broker-published
+2026-09-21T06:08:21.500Z,dukascopy,WTIUSD,94.57,94.62,0.05,usd,unspecified,broker-published
+2026-09-21T06:08:38.817Z,dukascopy,WTIUSD,94.536,94.586,0.05,usd,unspecified,broker-published
+2026-09-21T06:08:46.365Z,dukascopy,WTIUSD,94.53,94.586,0.056,usd,unspecified,broker-published
+2026-09-21T06:08:53.753Z,dukascopy,WTIUSD,94.505,94.556,0.051,usd,unspecified,broker-published
+2026-09-21T06:09:01.290Z,dukascopy,WTIUSD,94.49,94.54,0.05,usd,unspecified,broker-published
+2026-09-21T06:09:08.678Z,dukascopy,WTIUSD,94.51,94.566,0.056,usd,unspecified,broker-published
+2026-09-21T06:09:17.180Z,dukascopy,WTIUSD,94.53,94.586,0.056,usd,unspecified,broker-published
+2026-09-21T06:09:24.498Z,dukascopy,WTIUSD,94.53,94.586,0.056,usd,unspecified,broker-published
+2026-09-21T06:09:31.804Z,dukascopy,WTIUSD,94.53,94.58,0.05,usd,unspecified,broker-published
+2026-09-21T06:09:49.166Z,dukascopy,WTIUSD,94.5,94.556,0.056,usd,unspecified,broker-published

@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-09-21T06:08:06.770Z,dukascopy,XAUUSD,4353.895,4354.585,0.69,usd,unspecified,broker-published
+2026-09-21T06:08:14.138Z,dukascopy,XAUUSD,4353.675,4354.375,0.7,usd,unspecified,broker-published
+2026-09-21T06:08:21.500Z,dukascopy,XAUUSD,4352.285,4352.985,0.7,usd,unspecified,broker-published
+2026-09-21T06:08:38.817Z,dukascopy,XAUUSD,4351.935,4352.615,0.68,usd,unspecified,broker-published
+2026-09-21T06:08:46.365Z,dukascopy,XAUUSD,4352.885,4353.585,0.7,usd,unspecified,broker-published
+2026-09-21T06:08:53.753Z,dukascopy,XAUUSD,4353.155,4353.855,0.7,usd,unspecified,broker-published
+2026-09-21T06:09:01.290Z,dukascopy,XAUUSD,4354.165,4354.865,0.7,usd,unspecified,broker-published
+2026-09-21T06:09:08.678Z,dukascopy,XAUUSD,4354.895,4355.515,0.62,usd,unspecified,broker-published
+2026-09-21T06:09:17.180Z,dukascopy,XAUUSD,4353.815,4354.525,0.71,usd,unspecified,broker-published
+2026-09-21T06:09:24.498Z,dukascopy,XAUUSD,4354.015,4354.745,0.73,usd,unspecified,broker-published
+2026-09-21T06:09:31.804Z,dukascopy,XAUUSD,4353.635,4354.305,0.67,usd,unspecified,broker-published
+2026-09-21T06:09:49.166Z,dukascopy,XAUUSD,4354.085,4354.775,0.69,usd,unspecified,broker-published
