@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-09-21T15:52:06.677Z,dukascopy,USDJPY,157.475,157.479,0.4,pips,unspecified,broker-published
+2026-09-21T15:52:14.009Z,dukascopy,USDJPY,157.476,157.479,0.3,pips,unspecified,broker-published
+2026-09-21T15:52:21.382Z,dukascopy,USDJPY,157.476,157.478,0.2,pips,unspecified,broker-published
+2026-09-21T15:52:28.719Z,dukascopy,USDJPY,157.475,157.478,0.3,pips,unspecified,broker-published
+2026-09-21T15:52:36.134Z,dukascopy,USDJPY,157.475,157.479,0.4,pips,unspecified,broker-published
+2026-09-21T15:52:43.485Z,dukascopy,USDJPY,157.476,157.479,0.3,pips,unspecified,broker-published
+2026-09-21T15:52:50.888Z,dukascopy,USDJPY,157.476,157.479,0.3,pips,unspecified,broker-published
+2026-09-21T15:52:58.251Z,dukascopy,USDJPY,157.474,157.478,0.4,pips,unspecified,broker-published
+2026-09-21T15:53:05.747Z,dukascopy,USDJPY,157.474,157.478,0.4,pips,unspecified,broker-published
+2026-09-21T15:53:13.257Z,dukascopy,USDJPY,157.471,157.475,0.4,pips,unspecified,broker-published
+2026-09-21T15:53:20.748Z,dukascopy,USDJPY,157.473,157.477,0.4,pips,unspecified,broker-published
+2026-09-21T15:53:28.036Z,dukascopy,USDJPY,157.475,157.479,0.4,pips,unspecified,broker-published
