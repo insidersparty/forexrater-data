@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-09-24T18:23:57.347Z,dukascopy,ETHUSD,2677.7,2681.7,4,usd,unspecified,broker-published
+2026-09-24T18:24:04.968Z,dukascopy,ETHUSD,2677.2,2681.2,4,usd,unspecified,broker-published
+2026-09-24T18:24:12.534Z,dukascopy,ETHUSD,2676.9,2680.9,4,usd,unspecified,broker-published
+2026-09-24T18:24:20.153Z,dukascopy,ETHUSD,2676.9,2680.9,4,usd,unspecified,broker-published
+2026-09-24T18:24:27.844Z,dukascopy,ETHUSD,2676.7,2680.7,4,usd,unspecified,broker-published
+2026-09-24T18:24:35.388Z,dukascopy,ETHUSD,2677.6,2681.6,4,usd,unspecified,broker-published
+2026-09-24T18:24:42.821Z,dukascopy,ETHUSD,2677.4,2681.4,4,usd,unspecified,broker-published
+2026-09-24T18:24:50.448Z,dukascopy,ETHUSD,2677.6,2681.6,4,usd,unspecified,broker-published
+2026-09-24T18:24:58.144Z,dukascopy,ETHUSD,2677.1,2681.1,4,usd,unspecified,broker-published
+2026-09-24T18:25:05.690Z,dukascopy,ETHUSD,2677.8,2681.8,4,usd,unspecified,broker-published
+2026-09-24T18:25:13.269Z,dukascopy,ETHUSD,2678.2,2682.2,4,usd,unspecified,broker-published
+2026-09-24T18:25:20.871Z,dukascopy,ETHUSD,2678.6,2682.6,4,usd,unspecified,broker-published
