@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-09-30T15:52:29.766Z,dukascopy,EURUSD,1.13467,1.13468,0.1,pips,unspecified,broker-published
+2026-09-30T15:52:37.298Z,dukascopy,EURUSD,1.13469,1.13471,0.2,pips,unspecified,broker-published
+2026-09-30T15:52:44.872Z,dukascopy,EURUSD,1.13468,1.13469,0.1,pips,unspecified,broker-published
+2026-09-30T15:52:52.378Z,dukascopy,EURUSD,1.13475,1.13477,0.2,pips,unspecified,broker-published
+2026-09-30T15:53:00.032Z,dukascopy,EURUSD,1.13475,1.13476,0.1,pips,unspecified,broker-published
+2026-09-30T15:53:07.529Z,dukascopy,EURUSD,1.13461,1.13463,0.2,pips,unspecified,broker-published
+2026-09-30T15:53:14.947Z,dukascopy,EURUSD,1.13451,1.13452,0.1,pips,unspecified,broker-published
+2026-09-30T15:53:22.498Z,dukascopy,EURUSD,1.13445,1.13447,0.2,pips,unspecified,broker-published
+2026-09-30T15:53:30.161Z,dukascopy,EURUSD,1.13441,1.13445,0.4,pips,unspecified,broker-published
+2026-09-30T15:53:37.542Z,dukascopy,EURUSD,1.13443,1.13447,0.4,pips,unspecified,broker-published
+2026-09-30T15:53:45.058Z,dukascopy,EURUSD,1.13442,1.13443,0.1,pips,unspecified,broker-published
+2026-09-30T15:53:52.571Z,dukascopy,EURUSD,1.1344,1.13444,0.4,pips,unspecified,broker-published
