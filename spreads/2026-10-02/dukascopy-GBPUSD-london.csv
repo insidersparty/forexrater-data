@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-10-02T15:44:12.937Z,dukascopy,GBPUSD,1.32277,1.32281,0.4,pips,unspecified,broker-published
+2026-10-02T15:44:20.511Z,dukascopy,GBPUSD,1.32272,1.32275,0.3,pips,unspecified,broker-published
+2026-10-02T15:44:28.103Z,dukascopy,GBPUSD,1.3226,1.32264,0.4,pips,unspecified,broker-published
+2026-10-02T15:44:35.665Z,dukascopy,GBPUSD,1.3226,1.32263,0.3,pips,unspecified,broker-published
+2026-10-02T15:44:43.363Z,dukascopy,GBPUSD,1.32259,1.32263,0.4,pips,unspecified,broker-published
+2026-10-02T15:44:50.857Z,dukascopy,GBPUSD,1.3226,1.32265,0.5,pips,unspecified,broker-published
+2026-10-02T15:44:58.383Z,dukascopy,GBPUSD,1.32261,1.32265,0.4,pips,unspecified,broker-published
+2026-10-02T15:45:05.960Z,dukascopy,GBPUSD,1.32254,1.32261,0.7,pips,unspecified,broker-published
+2026-10-02T15:45:13.546Z,dukascopy,GBPUSD,1.32266,1.32273,0.7,pips,unspecified,broker-published
+2026-10-02T15:45:21.124Z,dukascopy,GBPUSD,1.32258,1.32263,0.5,pips,unspecified,broker-published
+2026-10-02T15:45:28.723Z,dukascopy,GBPUSD,1.32256,1.3226,0.4,pips,unspecified,broker-published
+2026-10-02T15:45:36.266Z,dukascopy,GBPUSD,1.32256,1.32263,0.7,pips,unspecified,broker-published
