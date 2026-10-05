@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-10-05T06:50:58.279Z,dukascopy,US30,51120.727,51122.773,2.046,usd,unspecified,broker-published
+2026-10-05T06:51:05.942Z,dukascopy,US30,51119.727,51121.713,1.986,usd,unspecified,broker-published
+2026-10-05T06:51:13.671Z,dukascopy,US30,51118.299,51120.261,1.962,usd,unspecified,broker-published
+2026-10-05T06:51:21.332Z,dukascopy,US30,51123.775,51125.737,1.962,usd,unspecified,broker-published
+2026-10-05T06:51:28.881Z,dukascopy,US30,51119.799,51121.713,1.914,usd,unspecified,broker-published
+2026-10-05T06:51:36.397Z,dukascopy,US30,51123.799,51125.797,1.998,usd,unspecified,broker-published
+2026-10-05T06:51:44.092Z,dukascopy,US30,51125.251,51127.237,1.986,usd,unspecified,broker-published
+2026-10-05T06:51:51.839Z,dukascopy,US30,51124.751,51126.785,2.034,usd,unspecified,broker-published
+2026-10-05T06:51:59.726Z,dukascopy,US30,51126.763,51128.749,1.986,usd,unspecified,broker-published
+2026-10-05T06:52:07.271Z,dukascopy,US30,51125.739,51127.725,1.986,usd,unspecified,broker-published
+2026-10-05T06:52:14.862Z,dukascopy,US30,51122.299,51124.237,1.938,usd,unspecified,broker-published
+2026-10-05T06:52:22.459Z,dukascopy,US30,51118.775,51120.761,1.986,usd,unspecified,broker-published
