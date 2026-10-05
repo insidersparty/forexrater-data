@@ -202,25 +202,30 @@ frozen, and it is not flagged for a review that has already been held.
 
 | Broker | Symbol | Committed | Quarantined | Success | Last good | Status |
 |---|---|---|---|---|---|---|
-| dukascopy | BRENTUSD | 54 | 0 | 100% | 2026-10-05 | ok |
-| dukascopy | ETHUSD | 101 | 0 | 100% | 2026-10-05 | ok |
-| dukascopy | EURUSD | 104 | 0 | 100% | 2026-10-05 | ok |
-| dukascopy | GBPUSD | 104 | 0 | 100% | 2026-10-05 | ok |
-| dukascopy | NAS100 | 101 | 1 | 99% | 2026-10-05 | ok |
-| dukascopy | SPX500 | 101 | 1 | 99% | 2026-10-05 | ok |
-| dukascopy | US30 | 101 | 1 | 99% | 2026-10-05 | ok |
-| dukascopy | USDJPY | 104 | 0 | 100% | 2026-10-05 | ok |
-| dukascopy | XAGUSD | 101 | 0 | 100% | 2026-10-05 | ok |
-| dukascopy | XAUUSD | 104 | 0 | 100% | 2026-10-05 | ok |
+| dukascopy | BRENTUSD | 55 | 0 | 100% | 2026-10-05 | ok |
+| dukascopy | ETHUSD | 102 | 0 | 100% | 2026-10-05 | ok |
+| dukascopy | EURUSD | 104 | 1 | 99% | 2026-10-05 | ok |
+| dukascopy | GBPUSD | 104 | 1 | 99% | 2026-10-05 | ok |
+| dukascopy | NAS100 | 102 | 1 | 99% | 2026-10-05 | ok |
+| dukascopy | SPX500 | 102 | 1 | 99% | 2026-10-05 | ok |
+| dukascopy | US30 | 102 | 1 | 99% | 2026-10-05 | ok |
+| dukascopy | USDJPY | 104 | 1 | 99% | 2026-10-05 | ok |
+| dukascopy | XAGUSD | 102 | 0 | 100% | 2026-10-05 | ok |
+| dukascopy | XAUUSD | 105 | 0 | 100% | 2026-10-05 | ok |
 | pepperstone | EURUSD | 14 | 11 | 56% | 2026-08-26 | ⏸ parked |
-| pepperstone | GBPUSD | 104 | 0 | 100% | 2026-10-05 | ok |
-| pepperstone | USDJPY | 104 | 0 | 100% | 2026-10-05 | ok |
-| pepperstone | XAUUSD | 104 | 0 | 100% | 2026-10-05 | ok |
+| pepperstone | GBPUSD | 104 | 1 | 99% | 2026-10-05 | ok |
+| pepperstone | USDJPY | 104 | 1 | 99% | 2026-10-05 | ok |
+| pepperstone | XAUUSD | 105 | 0 | 100% | 2026-10-05 | ok |
 
+- **dukascopy/EURUSD** — dukascopy/EURUSD (newyork): median 4.5 outside absolute band 0-3 pips (advertised 0.1 too small for ratio mode). QUARANTINED.
+- **dukascopy/GBPUSD** — dukascopy/GBPUSD (newyork): median 6.5 outside absolute band 0-4 pips (advertised 0 too small for ratio mode). QUARANTINED.
 - **dukascopy/NAS100** — NAS: no mid-price range defined — cannot sanity-check magnitude, so not committed
 - **dukascopy/SPX500** — SPX: no mid-price range defined — cannot sanity-check magnitude, so not committed
 - **dukascopy/US30** — US: no mid-price range defined — cannot sanity-check magnitude, so not committed
+- **dukascopy/USDJPY** — dukascopy/USDJPY (newyork): median 11 outside absolute band 0-3.5 pips (advertised 0 too small for ratio mode). QUARANTINED.
 - **pepperstone/EURUSD** — pepperstone/EURUSD (promote-check): every sample identical and zero — indistinguishable from a parse that produced 0. QUARANTINED.
+- **pepperstone/GBPUSD** — pepperstone/GBPUSD (newyork): median 9 outside absolute band 0-4 pips (advertised 0 too small for ratio mode). QUARANTINED.
+- **pepperstone/USDJPY** — pepperstone/USDJPY (newyork): median 10 outside absolute band 0-3.5 pips (advertised 0 too small for ratio mode). QUARANTINED.
 
 ## Collection rules
 

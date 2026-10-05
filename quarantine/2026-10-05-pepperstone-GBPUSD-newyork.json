@@ -1,0 +1,100 @@
+{
+ "broker": "pepperstone",
+ "symbol": "GBPUSD",
+ "session": "newyork",
+ "reason": "pepperstone/GBPUSD (newyork): median 9 outside absolute band 0-4 pips (advertised 0 too small for ratio mode). QUARANTINED.",
+ "gate": {
+  "ok": false,
+  "mode": "absolute",
+  "median": 9,
+  "ratio": null,
+  "reason": "pepperstone/GBPUSD (newyork): median 9 outside absolute band 0-4 pips (advertised 0 too small for ratio mode). QUARANTINED."
+ },
+ "rows": [
+  {
+   "t": "2026-10-05T21:27:41.212Z",
+   "bid": 1.32164,
+   "ask": 1.32254,
+   "spread": 9,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:27:48.800Z",
+   "bid": 1.32164,
+   "ask": 1.32254,
+   "spread": 9,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:27:56.408Z",
+   "bid": 1.32164,
+   "ask": 1.32254,
+   "spread": 9,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:03.984Z",
+   "bid": 1.32168,
+   "ask": 1.32258,
+   "spread": 9,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:11.471Z",
+   "bid": 1.32168,
+   "ask": 1.32258,
+   "spread": 9,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:18.962Z",
+   "bid": 1.32164,
+   "ask": 1.32254,
+   "spread": 9,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:26.515Z",
+   "bid": 1.32164,
+   "ask": 1.32254,
+   "spread": 9,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:34.090Z",
+   "bid": 1.32164,
+   "ask": 1.32254,
+   "spread": 9,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:41.540Z",
+   "bid": 1.32168,
+   "ask": 1.32258,
+   "spread": 9,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:49.059Z",
+   "bid": 1.32168,
+   "ask": 1.32258,
+   "spread": 9,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:56.532Z",
+   "bid": 1.32164,
+   "ask": 1.32254,
+   "spread": 9,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:29:04.100Z",
+   "bid": 1.32168,
+   "ask": 1.32258,
+   "spread": 9,
+   "unit": "pips"
+  }
+ ],
+ "quarantinedAt": "2026-10-05T21:29:04.105Z"
+}

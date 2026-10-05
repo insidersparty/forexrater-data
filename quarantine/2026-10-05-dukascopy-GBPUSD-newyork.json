@@ -1,0 +1,100 @@
+{
+ "broker": "dukascopy",
+ "symbol": "GBPUSD",
+ "session": "newyork",
+ "reason": "dukascopy/GBPUSD (newyork): median 6.5 outside absolute band 0-4 pips (advertised 0 too small for ratio mode). QUARANTINED.",
+ "gate": {
+  "ok": false,
+  "mode": "absolute",
+  "median": 6.5,
+  "ratio": null,
+  "reason": "dukascopy/GBPUSD (newyork): median 6.5 outside absolute band 0-4 pips (advertised 0 too small for ratio mode). QUARANTINED."
+ },
+ "rows": [
+  {
+   "t": "2026-10-05T21:27:40.899Z",
+   "bid": 1.32183,
+   "ask": 1.32249,
+   "spread": 6.6,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:27:48.457Z",
+   "bid": 1.32183,
+   "ask": 1.32249,
+   "spread": 6.6,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:27:56.074Z",
+   "bid": 1.32157,
+   "ask": 1.3225,
+   "spread": 9.3,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:03.646Z",
+   "bid": 1.3217,
+   "ask": 1.3224,
+   "spread": 7,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:11.236Z",
+   "bid": 1.3217,
+   "ask": 1.3224,
+   "spread": 7,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:18.721Z",
+   "bid": 1.32172,
+   "ask": 1.32237,
+   "spread": 6.5,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:26.207Z",
+   "bid": 1.32172,
+   "ask": 1.32237,
+   "spread": 6.5,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:33.791Z",
+   "bid": 1.32172,
+   "ask": 1.32237,
+   "spread": 6.5,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:41.301Z",
+   "bid": 1.32172,
+   "ask": 1.32237,
+   "spread": 6.5,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:48.781Z",
+   "bid": 1.32172,
+   "ask": 1.32237,
+   "spread": 6.5,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:56.292Z",
+   "bid": 1.32172,
+   "ask": 1.32237,
+   "spread": 6.5,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:29:03.778Z",
+   "bid": 1.32172,
+   "ask": 1.32237,
+   "spread": 6.5,
+   "unit": "pips"
+  }
+ ],
+ "quarantinedAt": "2026-10-05T21:29:04.105Z"
+}

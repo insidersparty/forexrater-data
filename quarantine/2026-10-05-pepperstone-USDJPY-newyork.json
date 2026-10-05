@@ -1,0 +1,100 @@
+{
+ "broker": "pepperstone",
+ "symbol": "USDJPY",
+ "session": "newyork",
+ "reason": "pepperstone/USDJPY (newyork): median 10 outside absolute band 0-3.5 pips (advertised 0 too small for ratio mode). QUARANTINED.",
+ "gate": {
+  "ok": false,
+  "mode": "absolute",
+  "median": 10,
+  "ratio": null,
+  "reason": "pepperstone/USDJPY (newyork): median 10 outside absolute band 0-3.5 pips (advertised 0 too small for ratio mode). QUARANTINED."
+ },
+ "rows": [
+  {
+   "t": "2026-10-05T21:27:41.212Z",
+   "bid": 157.862,
+   "ask": 157.962,
+   "spread": 10,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:27:48.800Z",
+   "bid": 157.862,
+   "ask": 157.962,
+   "spread": 10,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:27:56.408Z",
+   "bid": 157.862,
+   "ask": 157.962,
+   "spread": 10,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:03.984Z",
+   "bid": 157.862,
+   "ask": 157.962,
+   "spread": 10,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:11.471Z",
+   "bid": 157.862,
+   "ask": 157.962,
+   "spread": 10,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:18.962Z",
+   "bid": 157.862,
+   "ask": 157.962,
+   "spread": 10,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:26.515Z",
+   "bid": 157.862,
+   "ask": 157.962,
+   "spread": 10,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:34.090Z",
+   "bid": 157.862,
+   "ask": 157.962,
+   "spread": 10,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:41.540Z",
+   "bid": 157.862,
+   "ask": 157.962,
+   "spread": 10,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:49.059Z",
+   "bid": 157.862,
+   "ask": 157.962,
+   "spread": 10,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:56.532Z",
+   "bid": 157.862,
+   "ask": 157.962,
+   "spread": 10,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:29:04.100Z",
+   "bid": 157.862,
+   "ask": 157.962,
+   "spread": 10,
+   "unit": "pips"
+  }
+ ],
+ "quarantinedAt": "2026-10-05T21:29:04.105Z"
+}

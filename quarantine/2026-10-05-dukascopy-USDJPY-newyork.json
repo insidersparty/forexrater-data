@@ -1,0 +1,100 @@
+{
+ "broker": "dukascopy",
+ "symbol": "USDJPY",
+ "session": "newyork",
+ "reason": "dukascopy/USDJPY (newyork): median 11 outside absolute band 0-3.5 pips (advertised 0 too small for ratio mode). QUARANTINED.",
+ "gate": {
+  "ok": false,
+  "mode": "absolute",
+  "median": 11,
+  "ratio": null,
+  "reason": "dukascopy/USDJPY (newyork): median 11 outside absolute band 0-3.5 pips (advertised 0 too small for ratio mode). QUARANTINED."
+ },
+ "rows": [
+  {
+   "t": "2026-10-05T21:27:40.899Z",
+   "bid": 157.905,
+   "ask": 158.015,
+   "spread": 11,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:27:48.457Z",
+   "bid": 157.905,
+   "ask": 158.015,
+   "spread": 11,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:27:56.074Z",
+   "bid": 157.904,
+   "ask": 158.014,
+   "spread": 11,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:03.646Z",
+   "bid": 157.904,
+   "ask": 158.014,
+   "spread": 11,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:11.236Z",
+   "bid": 157.905,
+   "ask": 158.015,
+   "spread": 11,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:18.721Z",
+   "bid": 157.905,
+   "ask": 158.015,
+   "spread": 11,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:26.207Z",
+   "bid": 157.905,
+   "ask": 158.015,
+   "spread": 11,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:33.791Z",
+   "bid": 157.905,
+   "ask": 158.015,
+   "spread": 11,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:41.301Z",
+   "bid": 157.906,
+   "ask": 158.015,
+   "spread": 10.9,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:48.781Z",
+   "bid": 157.906,
+   "ask": 158.016,
+   "spread": 11,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:28:56.292Z",
+   "bid": 157.905,
+   "ask": 158.015,
+   "spread": 11,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-10-05T21:29:03.778Z",
+   "bid": 157.906,
+   "ask": 158.016,
+   "spread": 11,
+   "unit": "pips"
+  }
+ ],
+ "quarantinedAt": "2026-10-05T21:29:04.105Z"
+}
