@@ -202,20 +202,20 @@ frozen, and it is not flagged for a review that has already been held.
 
 | Broker | Symbol | Committed | Quarantined | Success | Last good | Status |
 |---|---|---|---|---|---|---|
-| dukascopy | BRENTUSD | 59 | 0 | 100% | 2026-10-07 | ok |
-| dukascopy | ETHUSD | 106 | 0 | 100% | 2026-10-07 | ok |
-| dukascopy | EURUSD | 108 | 1 | 99% | 2026-10-07 | ok |
-| dukascopy | GBPUSD | 108 | 1 | 99% | 2026-10-07 | ok |
-| dukascopy | NAS100 | 106 | 1 | 99% | 2026-10-07 | ok |
-| dukascopy | SPX500 | 106 | 1 | 99% | 2026-10-07 | ok |
-| dukascopy | US30 | 106 | 1 | 99% | 2026-10-07 | ok |
-| dukascopy | USDJPY | 108 | 1 | 99% | 2026-10-07 | ok |
-| dukascopy | XAGUSD | 106 | 0 | 100% | 2026-10-07 | ok |
-| dukascopy | XAUUSD | 109 | 0 | 100% | 2026-10-07 | ok |
+| dukascopy | BRENTUSD | 60 | 0 | 100% | 2026-10-07 | ok |
+| dukascopy | ETHUSD | 107 | 0 | 100% | 2026-10-07 | ok |
+| dukascopy | EURUSD | 109 | 1 | 99% | 2026-10-07 | ok |
+| dukascopy | GBPUSD | 109 | 1 | 99% | 2026-10-07 | ok |
+| dukascopy | NAS100 | 107 | 1 | 99% | 2026-10-07 | ok |
+| dukascopy | SPX500 | 107 | 1 | 99% | 2026-10-07 | ok |
+| dukascopy | US30 | 107 | 1 | 99% | 2026-10-07 | ok |
+| dukascopy | USDJPY | 109 | 1 | 99% | 2026-10-07 | ok |
+| dukascopy | XAGUSD | 107 | 0 | 100% | 2026-10-07 | ok |
+| dukascopy | XAUUSD | 110 | 0 | 100% | 2026-10-07 | ok |
 | pepperstone | EURUSD | 14 | 11 | 56% | 2026-08-26 | ⏸ parked |
-| pepperstone | GBPUSD | 108 | 1 | 99% | 2026-10-07 | ok |
-| pepperstone | USDJPY | 108 | 1 | 99% | 2026-10-07 | ok |
-| pepperstone | XAUUSD | 109 | 0 | 100% | 2026-10-07 | ok |
+| pepperstone | GBPUSD | 109 | 1 | 99% | 2026-10-07 | ok |
+| pepperstone | USDJPY | 109 | 1 | 99% | 2026-10-07 | ok |
+| pepperstone | XAUUSD | 110 | 0 | 100% | 2026-10-07 | ok |
 
 - **dukascopy/EURUSD** — dukascopy/EURUSD (newyork): median 4.5 outside absolute band 0-3 pips (advertised 0.1 too small for ratio mode). QUARANTINED.
 - **dukascopy/GBPUSD** — dukascopy/GBPUSD (newyork): median 6.5 outside absolute band 0-4 pips (advertised 0 too small for ratio mode). QUARANTINED.
