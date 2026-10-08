@@ -1,0 +1,8 @@
+{
+ "broker": "dukascopy",
+ "symbol": "EURUSD",
+ "session": "london",
+ "reason": "only 0/12 samples (min 8) — window too thin to publish",
+ "rows": [],
+ "quarantinedAt": "2026-10-08T16:26:14.314Z"
+}
