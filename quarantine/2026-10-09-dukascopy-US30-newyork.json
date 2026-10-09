@@ -1,0 +1,8 @@
+{
+ "broker": "dukascopy",
+ "symbol": "US30",
+ "session": "newyork",
+ "reason": "only 0/12 samples (min 8) — window too thin to publish",
+ "rows": [],
+ "quarantinedAt": "2026-10-09T19:30:41.220Z"
+}
