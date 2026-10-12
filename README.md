@@ -202,22 +202,22 @@ frozen, and it is not flagged for a review that has already been held.
 
 | Broker | Symbol | Committed | Quarantined | Success | Last good | Status |
 |---|---|---|---|---|---|---|
-| dukascopy | BRENTUSD | 62 | 6 | 91% | 2026-10-08 | ok |
-| dukascopy | BTCUSD | 0 | 6 | 0% | — | ⚠ REVIEW |
-| dukascopy | ETHUSD | 109 | 6 | 95% | 2026-10-08 | ok |
-| dukascopy | EURUSD | 111 | 7 | 94% | 2026-10-08 | ok |
-| dukascopy | GBPUSD | 111 | 7 | 94% | 2026-10-08 | ok |
-| dukascopy | NAS100 | 109 | 7 | 94% | 2026-10-08 | ok |
-| dukascopy | SPX500 | 109 | 7 | 94% | 2026-10-08 | ok |
-| dukascopy | US30 | 109 | 7 | 94% | 2026-10-08 | ok |
-| dukascopy | USDJPY | 111 | 7 | 94% | 2026-10-08 | ok |
-| dukascopy | WTIUSD | 0 | 6 | 0% | — | ⚠ REVIEW |
-| dukascopy | XAGUSD | 109 | 6 | 95% | 2026-10-08 | ok |
-| dukascopy | XAUUSD | 112 | 6 | 95% | 2026-10-08 | ok |
+| dukascopy | BRENTUSD | 62 | 7 | 90% | 2026-10-08 | ok |
+| dukascopy | BTCUSD | 0 | 7 | 0% | — | ⚠ REVIEW |
+| dukascopy | ETHUSD | 109 | 7 | 94% | 2026-10-08 | ok |
+| dukascopy | EURUSD | 111 | 8 | 93% | 2026-10-08 | ok |
+| dukascopy | GBPUSD | 111 | 8 | 93% | 2026-10-08 | ok |
+| dukascopy | NAS100 | 109 | 8 | 93% | 2026-10-08 | ok |
+| dukascopy | SPX500 | 109 | 8 | 93% | 2026-10-08 | ok |
+| dukascopy | US30 | 109 | 8 | 93% | 2026-10-08 | ok |
+| dukascopy | USDJPY | 111 | 8 | 93% | 2026-10-08 | ok |
+| dukascopy | WTIUSD | 0 | 7 | 0% | — | ⚠ REVIEW |
+| dukascopy | XAGUSD | 109 | 7 | 94% | 2026-10-08 | ok |
+| dukascopy | XAUUSD | 112 | 7 | 94% | 2026-10-08 | ok |
 | pepperstone | EURUSD | 14 | 11 | 56% | 2026-08-26 | ⏸ parked |
-| pepperstone | GBPUSD | 117 | 1 | 99% | 2026-10-12 | ok |
-| pepperstone | USDJPY | 117 | 1 | 99% | 2026-10-12 | ok |
-| pepperstone | XAUUSD | 118 | 0 | 100% | 2026-10-12 | ok |
+| pepperstone | GBPUSD | 117 | 2 | 98% | 2026-10-12 | ok |
+| pepperstone | USDJPY | 117 | 2 | 98% | 2026-10-12 | ok |
+| pepperstone | XAUUSD | 118 | 1 | 99% | 2026-10-12 | ok |
 
 - **dukascopy/BRENTUSD** — only 0/12 samples (min 8) — window too thin to publish
 - **dukascopy/BTCUSD** — only 0/12 samples (min 8) — window too thin to publish
@@ -234,6 +234,7 @@ frozen, and it is not flagged for a review that has already been held.
 - **pepperstone/EURUSD** — pepperstone/EURUSD (promote-check): every sample identical and zero — indistinguishable from a parse that produced 0. QUARANTINED.
 - **pepperstone/GBPUSD** — pepperstone/GBPUSD (newyork): median 9 outside absolute band 0-4 pips (advertised 0 too small for ratio mode). QUARANTINED.
 - **pepperstone/USDJPY** — pepperstone/USDJPY (newyork): median 10 outside absolute band 0-3.5 pips (advertised 0 too small for ratio mode). QUARANTINED.
+- **pepperstone/XAUUSD** — london: sampled at 2026-10-12T18:57:18.476Z (18h UTC), outside London 07:00-18:00 UTC. The scheduled slot was delivered late, so this window is not london data. QUARANTINED.
 
 ## Collection rules
 
