@@ -202,22 +202,22 @@ frozen, and it is not flagged for a review that has already been held.
 
 | Broker | Symbol | Committed | Quarantined | Success | Last good | Status |
 |---|---|---|---|---|---|---|
-| dukascopy | BRENTUSD | 62 | 9 | 87% | 2026-10-08 | ok |
-| dukascopy | BTCUSD | 0 | 9 | 0% | — | ⚠ REVIEW |
-| dukascopy | ETHUSD | 109 | 9 | 92% | 2026-10-08 | ok |
-| dukascopy | EURUSD | 111 | 10 | 92% | 2026-10-08 | ok |
-| dukascopy | GBPUSD | 111 | 10 | 92% | 2026-10-08 | ok |
-| dukascopy | NAS100 | 109 | 10 | 92% | 2026-10-08 | ok |
-| dukascopy | SPX500 | 109 | 10 | 92% | 2026-10-08 | ok |
-| dukascopy | US30 | 109 | 10 | 92% | 2026-10-08 | ok |
-| dukascopy | USDJPY | 111 | 10 | 92% | 2026-10-08 | ok |
-| dukascopy | WTIUSD | 0 | 9 | 0% | — | ⚠ REVIEW |
-| dukascopy | XAGUSD | 109 | 9 | 92% | 2026-10-08 | ok |
-| dukascopy | XAUUSD | 112 | 9 | 93% | 2026-10-08 | ok |
+| dukascopy | BRENTUSD | 62 | 10 | 86% | 2026-10-08 | ok |
+| dukascopy | BTCUSD | 0 | 10 | 0% | — | ⚠ REVIEW |
+| dukascopy | ETHUSD | 109 | 10 | 92% | 2026-10-08 | ok |
+| dukascopy | EURUSD | 111 | 11 | 91% | 2026-10-08 | ok |
+| dukascopy | GBPUSD | 111 | 11 | 91% | 2026-10-08 | ok |
+| dukascopy | NAS100 | 109 | 11 | 91% | 2026-10-08 | ok |
+| dukascopy | SPX500 | 109 | 11 | 91% | 2026-10-08 | ok |
+| dukascopy | US30 | 109 | 11 | 91% | 2026-10-08 | ok |
+| dukascopy | USDJPY | 111 | 11 | 91% | 2026-10-08 | ok |
+| dukascopy | WTIUSD | 0 | 10 | 0% | — | ⚠ REVIEW |
+| dukascopy | XAGUSD | 109 | 10 | 92% | 2026-10-08 | ok |
+| dukascopy | XAUUSD | 112 | 10 | 92% | 2026-10-08 | ok |
 | pepperstone | EURUSD | 14 | 11 | 56% | 2026-08-26 | ⏸ parked |
-| pepperstone | GBPUSD | 118 | 3 | 98% | 2026-10-13 | ok |
-| pepperstone | USDJPY | 118 | 3 | 98% | 2026-10-13 | ok |
-| pepperstone | XAUUSD | 119 | 2 | 98% | 2026-10-13 | ok |
+| pepperstone | GBPUSD | 119 | 3 | 98% | 2026-10-13 | ok |
+| pepperstone | USDJPY | 119 | 3 | 98% | 2026-10-13 | ok |
+| pepperstone | XAUUSD | 120 | 2 | 98% | 2026-10-13 | ok |
 
 - **dukascopy/BRENTUSD** — only 0/12 samples (min 8) — window too thin to publish
 - **dukascopy/BTCUSD** — only 0/12 samples (min 8) — window too thin to publish
