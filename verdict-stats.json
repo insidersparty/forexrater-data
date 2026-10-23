@@ -149,11 +149,11 @@
    "max": 0.9,
    "p10": 0,
    "p90": 0.3,
-   "samples": 1680,
-   "windows": 141,
-   "days": 49,
+   "samples": 1692,
+   "windows": 142,
+   "days": 50,
    "firstDate": "2026-08-14",
-   "lastDate": "2026-10-22",
+   "lastDate": "2026-10-23",
    "unit": "pips"
   },
   "pepperstone/USDJPY": {
@@ -162,11 +162,11 @@
    "max": 0.7,
    "p10": 0,
    "p90": 0.3,
-   "samples": 1680,
-   "windows": 141,
-   "days": 49,
+   "samples": 1692,
+   "windows": 142,
+   "days": 50,
    "firstDate": "2026-08-14",
-   "lastDate": "2026-10-22",
+   "lastDate": "2026-10-23",
    "unit": "pips"
   },
   "pepperstone/XAUUSD": {
@@ -175,11 +175,11 @@
    "max": 0.22,
    "p10": 0.08,
    "p90": 0.14,
-   "samples": 1692,
-   "windows": 142,
-   "days": 49,
+   "samples": 1704,
+   "windows": 143,
+   "days": 50,
    "firstDate": "2026-08-14",
-   "lastDate": "2026-10-22",
+   "lastDate": "2026-10-23",
    "unit": "usd"
   }
  }
