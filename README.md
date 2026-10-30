@@ -202,22 +202,22 @@ frozen, and it is not flagged for a review that has already been held.
 
 | Broker | Symbol | Committed | Quarantined | Success | Last good | Status |
 |---|---|---|---|---|---|---|
-| dukascopy | BRENTUSD | 62 | 49 | 56% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | BTCUSD | 0 | 49 | 0% | — | ⚠ REVIEW |
-| dukascopy | ETHUSD | 109 | 49 | 69% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | EURUSD | 111 | 50 | 69% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | GBPUSD | 111 | 50 | 69% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | NAS100 | 109 | 50 | 69% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | SPX500 | 109 | 50 | 69% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | US30 | 109 | 50 | 69% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | USDJPY | 111 | 50 | 69% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | WTIUSD | 0 | 49 | 0% | — | ⚠ REVIEW |
-| dukascopy | XAGUSD | 109 | 49 | 69% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | XAUUSD | 112 | 49 | 70% | 2026-10-08 | ok |
+| dukascopy | BRENTUSD | 62 | 50 | 55% | 2026-10-08 | ⚠ REVIEW |
+| dukascopy | BTCUSD | 0 | 50 | 0% | — | ⚠ REVIEW |
+| dukascopy | ETHUSD | 109 | 50 | 69% | 2026-10-08 | ⚠ REVIEW |
+| dukascopy | EURUSD | 111 | 51 | 69% | 2026-10-08 | ⚠ REVIEW |
+| dukascopy | GBPUSD | 111 | 51 | 69% | 2026-10-08 | ⚠ REVIEW |
+| dukascopy | NAS100 | 109 | 51 | 68% | 2026-10-08 | ⚠ REVIEW |
+| dukascopy | SPX500 | 109 | 51 | 68% | 2026-10-08 | ⚠ REVIEW |
+| dukascopy | US30 | 109 | 51 | 68% | 2026-10-08 | ⚠ REVIEW |
+| dukascopy | USDJPY | 111 | 51 | 69% | 2026-10-08 | ⚠ REVIEW |
+| dukascopy | WTIUSD | 0 | 50 | 0% | — | ⚠ REVIEW |
+| dukascopy | XAGUSD | 109 | 50 | 69% | 2026-10-08 | ⚠ REVIEW |
+| dukascopy | XAUUSD | 112 | 50 | 69% | 2026-10-08 | ⚠ REVIEW |
 | pepperstone | EURUSD | 14 | 11 | 56% | 2026-08-26 | ⏸ parked |
-| pepperstone | GBPUSD | 158 | 3 | 98% | 2026-10-30 | ok |
-| pepperstone | USDJPY | 158 | 3 | 98% | 2026-10-30 | ok |
-| pepperstone | XAUUSD | 159 | 2 | 99% | 2026-10-30 | ok |
+| pepperstone | GBPUSD | 159 | 3 | 98% | 2026-10-30 | ok |
+| pepperstone | USDJPY | 159 | 3 | 98% | 2026-10-30 | ok |
+| pepperstone | XAUUSD | 160 | 2 | 99% | 2026-10-30 | ok |
 
 - **dukascopy/BRENTUSD** — only 0/12 samples (min 8) — window too thin to publish
 - **dukascopy/BTCUSD** — only 0/12 samples (min 8) — window too thin to publish
