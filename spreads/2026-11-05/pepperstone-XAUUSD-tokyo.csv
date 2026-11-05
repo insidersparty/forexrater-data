@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-11-05T07:51:16.592Z,pepperstone,XAUUSD,4121.72,4121.84,0.12,usd,unspecified,broker-published
+2026-11-05T07:51:23.748Z,pepperstone,XAUUSD,4121.21,4121.35,0.14,usd,unspecified,broker-published
+2026-11-05T07:51:30.875Z,pepperstone,XAUUSD,4122.02,4122.1,0.08,usd,unspecified,broker-published
+2026-11-05T07:51:38.036Z,pepperstone,XAUUSD,4122.6,4122.72,0.12,usd,unspecified,broker-published
+2026-11-05T07:51:45.152Z,pepperstone,XAUUSD,4122.94,4123.06,0.12,usd,unspecified,broker-published
+2026-11-05T07:51:52.253Z,pepperstone,XAUUSD,4123.28,4123.4,0.12,usd,unspecified,broker-published
+2026-11-05T07:51:59.408Z,pepperstone,XAUUSD,4123.08,4123.2,0.12,usd,unspecified,broker-published
+2026-11-05T07:52:06.607Z,pepperstone,XAUUSD,4123.27,4123.39,0.12,usd,unspecified,broker-published
+2026-11-05T07:52:13.692Z,pepperstone,XAUUSD,4123.89,4124.01,0.12,usd,unspecified,broker-published
+2026-11-05T07:52:20.949Z,pepperstone,XAUUSD,4123.91,4124.03,0.12,usd,unspecified,broker-published
+2026-11-05T07:52:28.081Z,pepperstone,XAUUSD,4123.67,4123.79,0.12,usd,unspecified,broker-published
+2026-11-05T07:52:35.270Z,pepperstone,XAUUSD,4123.87,4123.99,0.12,usd,unspecified,broker-published
