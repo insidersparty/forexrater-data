@@ -1,0 +1,101 @@
+{
+ "broker": "pepperstone",
+ "symbol": "XAUUSD",
+ "session": "newyork",
+ "reason": "newyork: sampled at 2026-11-09T23:24:42.791Z (23h UTC), outside New York 12:00-21:00 UTC (rollover 21:00+ excluded). The scheduled slot was delivered late, so this window is not newyork data. QUARANTINED.",
+ "sessionWindow": {
+  "ok": false,
+  "session": "newyork",
+  "sampledAtUtc": "2026-11-09T23:24:42.791Z",
+  "hour": 23,
+  "window": "New York 12:00-21:00 UTC (rollover 21:00+ excluded)",
+  "reason": "newyork: sampled at 2026-11-09T23:24:42.791Z (23h UTC), outside New York 12:00-21:00 UTC (rollover 21:00+ excluded). The scheduled slot was delivered late, so this window is not newyork data. QUARANTINED."
+ },
+ "rows": [
+  {
+   "t": "2026-11-09T23:23:59.657Z",
+   "bid": 4141.71,
+   "ask": 4141.85,
+   "spread": 0.14,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-11-09T23:24:06.881Z",
+   "bid": 4141.84,
+   "ask": 4141.98,
+   "spread": 0.14,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-11-09T23:24:14.028Z",
+   "bid": 4141.92,
+   "ask": 4142.06,
+   "spread": 0.14,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-11-09T23:24:21.223Z",
+   "bid": 4141.99,
+   "ask": 4142.13,
+   "spread": 0.14,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-11-09T23:24:28.377Z",
+   "bid": 4141.88,
+   "ask": 4142.02,
+   "spread": 0.14,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-11-09T23:24:35.583Z",
+   "bid": 4141.86,
+   "ask": 4142,
+   "spread": 0.14,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-11-09T23:24:42.791Z",
+   "bid": 4141.87,
+   "ask": 4142.01,
+   "spread": 0.14,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-11-09T23:24:49.947Z",
+   "bid": 4141.73,
+   "ask": 4141.87,
+   "spread": 0.14,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-11-09T23:24:57.206Z",
+   "bid": 4141.54,
+   "ask": 4141.66,
+   "spread": 0.12,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-11-09T23:25:04.497Z",
+   "bid": 4141.6,
+   "ask": 4141.74,
+   "spread": 0.14,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-11-09T23:25:11.604Z",
+   "bid": 4141.9,
+   "ask": 4142.04,
+   "spread": 0.14,
+   "unit": "usd"
+  },
+  {
+   "t": "2026-11-09T23:25:18.802Z",
+   "bid": 4141.87,
+   "ask": 4142.01,
+   "spread": 0.14,
+   "unit": "usd"
+  }
+ ],
+ "quarantinedAt": "2026-11-09T23:25:18.804Z"
+}
