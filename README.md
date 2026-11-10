@@ -193,31 +193,51 @@ gated. Parking is about collection. A series can be demoted without being parked
 Pepperstone EUR/USD feed is now both, having been demoted first and parked later once
 the pattern proved permanent.
 
+## Walled feeds
+
+A **walled** provider has put its endpoint behind bot protection. This is a block on the
+provider's side, not a fault in our collection. It is filed, not defeated: the challenge is
+never solved, scripted, or routed around — no browser automation, no header tricks, no
+hunting for an unprotected mirror. The feed stays configured and is still requested on
+schedule with the same plain request as before, so **collection resumes by itself if the
+challenge lifts**. Until then nothing is collected, the series' figures stop at the last
+good date, and every sampler run reports the request errors and goes red — deliberately,
+because a blocked feed is a failure a human should see, not a routine quarantine.
+
+**dukascopy — WALLED since 2026-10-08: AWS WAF bot challenge.** GET https://jetta.dukascopy.com/v1/price/current answers 202 Accepted, Content-Length: 0, x-amzn-waf-action: challenge (re-confirmed 2026-11-10). No window has been
+committed for any of its 12 walled series since then (BRENTUSD, BTCUSD, ETHUSD, EURUSD, GBPUSD, NAS100, SPX500, US30, USDJPY, WTIUSD, XAGUSD, XAUUSD); the last
+committed windows are dated 2026-10-08. Record: CHANGELOG.md, 2026-10-14.
+
+This section is generated from `WALLED_FEEDS` in `data/observatoryFeeds.ts`; to clear a
+wall, delete its entry there.
+
 ## Feed health
 
 Derived from the files in this repo, not hand-maintained. A feed below 70% window
 success is flagged for review and demotion to advertised-only display. A row marked
 `⏸ parked` is no longer collected into `spreads/`: its figures are historical and
-frozen, and it is not flagged for a review that has already been held.
+frozen, and it is not flagged for a review that has already been held. A row marked
+`⚠ WALLED` belongs to a provider blocking collection on its side — see *Walled feeds*
+above; its low success rate is the block, not a quality failure.
 
 | Broker | Symbol | Committed | Quarantined | Success | Last good | Status |
 |---|---|---|---|---|---|---|
-| dukascopy | BRENTUSD | 62 | 68 | 48% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | BTCUSD | 0 | 68 | 0% | — | ⚠ REVIEW |
-| dukascopy | ETHUSD | 109 | 68 | 62% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | EURUSD | 111 | 69 | 62% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | GBPUSD | 111 | 69 | 62% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | NAS100 | 109 | 69 | 61% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | SPX500 | 109 | 69 | 61% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | US30 | 109 | 69 | 61% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | USDJPY | 111 | 69 | 62% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | WTIUSD | 0 | 68 | 0% | — | ⚠ REVIEW |
-| dukascopy | XAGUSD | 109 | 68 | 62% | 2026-10-08 | ⚠ REVIEW |
-| dukascopy | XAUUSD | 112 | 68 | 62% | 2026-10-08 | ⚠ REVIEW |
+| dukascopy | BRENTUSD | 62 | 69 | 47% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | BTCUSD | 0 | 69 | 0% | — | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | ETHUSD | 109 | 69 | 61% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | EURUSD | 111 | 70 | 61% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | GBPUSD | 111 | 70 | 61% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | NAS100 | 109 | 70 | 61% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | SPX500 | 109 | 70 | 61% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | US30 | 109 | 70 | 61% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | USDJPY | 111 | 70 | 61% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | WTIUSD | 0 | 69 | 0% | — | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | XAGUSD | 109 | 69 | 61% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | XAUUSD | 112 | 69 | 62% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
 | pepperstone | EURUSD | 14 | 11 | 56% | 2026-08-26 | ⏸ parked |
-| pepperstone | GBPUSD | 172 | 8 | 96% | 2026-11-09 | ok |
-| pepperstone | USDJPY | 172 | 8 | 96% | 2026-11-09 | ok |
-| pepperstone | XAUUSD | 173 | 7 | 96% | 2026-11-09 | ok |
+| pepperstone | GBPUSD | 173 | 8 | 96% | 2026-11-10 | ok |
+| pepperstone | USDJPY | 173 | 8 | 96% | 2026-11-10 | ok |
+| pepperstone | XAUUSD | 174 | 7 | 96% | 2026-11-10 | ok |
 
 - **dukascopy/BRENTUSD** — only 0/12 samples (min 8) — window too thin to publish
 - **dukascopy/BTCUSD** — only 0/12 samples (min 8) — window too thin to publish
