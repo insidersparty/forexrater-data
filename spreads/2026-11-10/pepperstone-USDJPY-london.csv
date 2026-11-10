@@ -1,0 +1,13 @@
+timestamp_utc,broker,symbol,bid,ask,spread,unit,feed_type,source
+2026-11-10T16:59:14.746Z,pepperstone,USDJPY,158.768,158.768,0,pips,unspecified,broker-published
+2026-11-10T16:59:21.907Z,pepperstone,USDJPY,158.768,158.769,0.1,pips,unspecified,broker-published
+2026-11-10T16:59:29.132Z,pepperstone,USDJPY,158.771,158.772,0.1,pips,unspecified,broker-published
+2026-11-10T16:59:36.302Z,pepperstone,USDJPY,158.758,158.759,0.1,pips,unspecified,broker-published
+2026-11-10T16:59:43.464Z,pepperstone,USDJPY,158.758,158.761,0.3,pips,unspecified,broker-published
+2026-11-10T16:59:50.773Z,pepperstone,USDJPY,158.766,158.766,0,pips,unspecified,broker-published
+2026-11-10T16:59:57.948Z,pepperstone,USDJPY,158.766,158.767,0.1,pips,unspecified,broker-published
+2026-11-10T17:00:05.152Z,pepperstone,USDJPY,158.771,158.772,0.1,pips,unspecified,broker-published
+2026-11-10T17:00:12.348Z,pepperstone,USDJPY,158.769,158.771,0.2,pips,unspecified,broker-published
+2026-11-10T17:00:19.735Z,pepperstone,USDJPY,158.779,158.78,0.1,pips,unspecified,broker-published
+2026-11-10T17:00:26.928Z,pepperstone,USDJPY,158.78,158.781,0.1,pips,unspecified,broker-published
+2026-11-10T17:00:34.077Z,pepperstone,USDJPY,158.785,158.785,0,pips,unspecified,broker-published
