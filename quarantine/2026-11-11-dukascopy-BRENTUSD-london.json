@@ -1,0 +1,8 @@
+{
+ "broker": "dukascopy",
+ "symbol": "BRENTUSD",
+ "session": "london",
+ "reason": "only 0/12 samples (min 8) — window too thin to publish",
+ "rows": [],
+ "quarantinedAt": "2026-11-11T17:05:00.572Z"
+}
