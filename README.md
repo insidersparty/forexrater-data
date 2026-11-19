@@ -222,22 +222,22 @@ above; its low success rate is the block, not a quality failure.
 
 | Broker | Symbol | Committed | Quarantined | Success | Last good | Status |
 |---|---|---|---|---|---|---|
-| dukascopy | BRENTUSD | 62 | 91 | 41% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
-| dukascopy | BTCUSD | 0 | 91 | 0% | — | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
-| dukascopy | ETHUSD | 109 | 91 | 55% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
-| dukascopy | EURUSD | 111 | 92 | 55% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
-| dukascopy | GBPUSD | 111 | 92 | 55% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
-| dukascopy | NAS100 | 109 | 92 | 54% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
-| dukascopy | SPX500 | 109 | 92 | 54% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
-| dukascopy | US30 | 109 | 92 | 54% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
-| dukascopy | USDJPY | 111 | 92 | 55% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
-| dukascopy | WTIUSD | 0 | 91 | 0% | — | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
-| dukascopy | XAGUSD | 109 | 91 | 55% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
-| dukascopy | XAUUSD | 112 | 91 | 55% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | BRENTUSD | 62 | 92 | 40% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | BTCUSD | 0 | 92 | 0% | — | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | ETHUSD | 109 | 92 | 54% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | EURUSD | 111 | 93 | 54% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | GBPUSD | 111 | 93 | 54% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | NAS100 | 109 | 93 | 54% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | SPX500 | 109 | 93 | 54% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | US30 | 109 | 93 | 54% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | USDJPY | 111 | 93 | 54% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | WTIUSD | 0 | 92 | 0% | — | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | XAGUSD | 109 | 92 | 54% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
+| dukascopy | XAUUSD | 112 | 92 | 55% | 2026-10-08 | ⚠ WALLED — provider behind an AWS WAF bot challenge since 2026-10-08; collection halted, not evaded |
 | pepperstone | EURUSD | 14 | 11 | 56% | 2026-08-26 | ⏸ parked |
-| pepperstone | GBPUSD | 186 | 17 | 92% | 2026-11-19 | ok |
-| pepperstone | USDJPY | 186 | 17 | 92% | 2026-11-19 | ok |
-| pepperstone | XAUUSD | 187 | 16 | 92% | 2026-11-19 | ok |
+| pepperstone | GBPUSD | 186 | 18 | 91% | 2026-11-19 | ok |
+| pepperstone | USDJPY | 186 | 18 | 91% | 2026-11-19 | ok |
+| pepperstone | XAUUSD | 187 | 17 | 92% | 2026-11-19 | ok |
 
 - **dukascopy/BRENTUSD** — only 0/12 samples (min 8) — window too thin to publish
 - **dukascopy/BTCUSD** — only 0/12 samples (min 8) — window too thin to publish
