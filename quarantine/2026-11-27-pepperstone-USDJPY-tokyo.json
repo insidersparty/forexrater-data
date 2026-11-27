@@ -1,0 +1,101 @@
+{
+ "broker": "pepperstone",
+ "symbol": "USDJPY",
+ "session": "tokyo",
+ "reason": "tokyo: sampled at 2026-11-27T09:36:33.805Z (09h UTC), outside Tokyo 00:00-09:00 UTC. The scheduled slot was delivered late, so this window is not tokyo data. QUARANTINED.",
+ "sessionWindow": {
+  "ok": false,
+  "session": "tokyo",
+  "sampledAtUtc": "2026-11-27T09:36:33.805Z",
+  "hour": 9,
+  "window": "Tokyo 00:00-09:00 UTC",
+  "reason": "tokyo: sampled at 2026-11-27T09:36:33.805Z (09h UTC), outside Tokyo 00:00-09:00 UTC. The scheduled slot was delivered late, so this window is not tokyo data. QUARANTINED."
+ },
+ "rows": [
+  {
+   "t": "2026-11-27T09:35:51.014Z",
+   "bid": 159.474,
+   "ask": 159.476,
+   "spread": 0.2,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-11-27T09:35:58.140Z",
+   "bid": 159.482,
+   "ask": 159.484,
+   "spread": 0.2,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-11-27T09:36:05.300Z",
+   "bid": 159.478,
+   "ask": 159.479,
+   "spread": 0.1,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-11-27T09:36:12.380Z",
+   "bid": 159.482,
+   "ask": 159.483,
+   "spread": 0.1,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-11-27T09:36:19.519Z",
+   "bid": 159.475,
+   "ask": 159.477,
+   "spread": 0.2,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-11-27T09:36:26.636Z",
+   "bid": 159.476,
+   "ask": 159.479,
+   "spread": 0.3,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-11-27T09:36:33.805Z",
+   "bid": 159.473,
+   "ask": 159.476,
+   "spread": 0.3,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-11-27T09:36:41.055Z",
+   "bid": 159.471,
+   "ask": 159.475,
+   "spread": 0.4,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-11-27T09:36:48.228Z",
+   "bid": 159.468,
+   "ask": 159.47,
+   "spread": 0.2,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-11-27T09:36:55.498Z",
+   "bid": 159.469,
+   "ask": 159.471,
+   "spread": 0.2,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-11-27T09:37:02.681Z",
+   "bid": 159.467,
+   "ask": 159.469,
+   "spread": 0.2,
+   "unit": "pips"
+  },
+  {
+   "t": "2026-11-27T09:37:09.855Z",
+   "bid": 159.471,
+   "ask": 159.474,
+   "spread": 0.3,
+   "unit": "pips"
+  }
+ ],
+ "quarantinedAt": "2026-11-27T09:37:09.857Z"
+}
